@@ -1,0 +1,1493 @@
+id,hotel_name,region,latitude,longitude,accommodation_type,cost,minimum_nights,number_of_reviews,reviews_per_month,owner_id,owned_hotels,yearly_availability
+13232,Hotel Arena,Bangalore,12.9716,77.5946,Entire home/apt,170,5,7,0.56,929983,1,0
+246,K K Hotel George,Lucknow,26.8467,80.9462,Entire home/apt,65,3,238,2.3,281764,1,0
+19091,Apex Temple Court Hotel,Jaipur,26.9124,75.7873,Private room,85,1,0,,19923341,1,1
+34305,The Park Grand London Paddington,Kolkata,22.5726,88.3639,Private room,210,30,0,,200380610,65,1
+444,Monhotel Lounge SPA,Bangalore,12.9716,77.5946,Shared room,75,3,38,0.42,745069,3,1
+30553,Kube Hotel Ice Bar,Bangalore,12.9716,77.5946,Private room,200,10,11,0.76,11243113,1,1
+30500,The Principal London,Ahmedabad,23.0225,72.5714,Entire home/apt,95,1,8,0.52,1746811,2,0
+48755,Park Plaza County Hall London,Bangalore,12.9716,77.5946,Shared room,380,3,0,,273812306,1,0
+3647,One Aldwych,Pune,18.5204,73.8567,Entire home/apt,79,1,259,3.93,11136429,1,0
+2673,Splendid Etoile,Mumbai,19.076,72.8777,Private room,70,20,75,1.05,7676839,1,1
+47512,Hotel Trianon Rive Gauche,Kolkata,22.5726,88.3639,Private room,86,2,0,,117987098,1,1
+39794,InterContinental London Park Lane,Mumbai,19.076,72.8777,Shared room,100,5,1,0.15,65775049,2,0
+22760,Novotel Suites Paris Nord 18 me,Bangalore,12.9716,77.5946,Private room,195,30,1,0.25,22541573,87,1
+39743,Grand Royale London Hyde Park,Hyderabad,17.385,78.4867,Private room,179,1,0,,213781715,33,1
+36514,Milestone Hotel Kensington,Kolkata,22.5726,88.3639,Shared room,65,2,0,,9808458,4,1
+45327,Crowne Plaza London Kings Cross,Kolkata,22.5726,88.3639,Private room,150,31,0,,261589968,1,1
+37393,Select Hotel,Ahmedabad,23.0225,72.5714,Shared room,250,3,2,0.31,84077949,1,0
+36840,H tel De Vend me,Lucknow,26.8467,80.9462,Private room,170,12,1,0.11,53621734,1,1
+20351,Pullman Paris Centre Bercy,Bangalore,12.9716,77.5946,Private room,220,28,2,0.08,65811347,1,1
+27292,Gardette Park Hotel,Pune,18.5204,73.8567,Entire home/apt,200,5,7,0.36,70844761,1,0
+22422,Hotel Panache,Delhi,28.7041,77.1025,Entire home/apt,60,2,113,4.15,9630989,2,0
+36096,H tel des Ducs D Anjou,Kolkata,22.5726,88.3639,Private room,200,4,0,,133762456,1,1
+32401,Hotel Scribe Paris Opera by Sofitel,Chennai,13.0827,80.2707,Shared room,60,1,6,0.45,123506305,3,1
+27574,Novotel London West,Pune,18.5204,73.8567,Entire home/apt,199,3,16,0.81,10974696,1,0
+10483,Haymarket Hotel,Pune,18.5204,73.8567,Private room,250,1,22,0.47,42237225,1,1
+47237,Intercontinental London The O2,Lucknow,26.8467,80.9462,Private room,65,1,1,1.0,244116720,1,1
+39386,H tel Juliana Paris,Bangalore,12.9716,77.5946,Entire home/apt,130,3,4,0.63,133972014,1,0
+2365,Hotel L Antoine,Pune,18.5204,73.8567,Private room,170,30,4,0.07,6142196,1,0
+16745,Belfast,Kolkata,22.5726,88.3639,Entire home/apt,73,1,65,3.49,61393656,1,0
+23462,Shangri La Hotel Paris,Hyderabad,17.385,78.4867,Private room,65,5,20,0.78,56076854,2,1
+2261,Mercure Paris Tour Eiffel Pont Mirabeau,Hyderabad,17.385,78.4867,Private room,150,30,9,0.12,3864301,2,1
+28503,Knightsbridge Hotel,Pune,18.5204,73.8567,Entire home/apt,150,3,5,0.27,20689561,1,0
+38973,The London EDITION,Bangalore,12.9716,77.5946,Entire home/apt,150,2,9,1.27,67727548,1,0
+1433,The Cranley Hotel,Chennai,13.0827,80.2707,Private room,350,2,3,0.04,3225114,1,1
+22198,Hotel Le 10 BIS,Hyderabad,17.385,78.4867,Shared room,60,2,11,0.52,9808458,4,1
+37831,The Nadler Soho,Lucknow,26.8467,80.9462,Entire home/apt,300,1,14,1.92,225150700,1,0
+27116,Grange St Paul s Hotel,Pune,18.5204,73.8567,Entire home/apt,109,2,22,1.17,10456843,1,0
+38,The Ampersand Hotel,Hyderabad,17.385,78.4867,Private room,150,1,0,,45445,1,1
+12664,Covent Garden Hotel,Ahmedabad,23.0225,72.5714,Private room,200,1,16,0.83,1317360,2,1
+22308,The Nadler Victoria,Mumbai,19.076,72.8777,Private room,170,30,1,0.36,766182,1,1
+749,Novotel London Tower Bridge,Kolkata,22.5726,88.3639,Private room,190,1,30,0.33,1315849,2,1
+18043,Crowne Plaza Paris R publique,Lucknow,26.8467,80.9462,Private room,174,360,0,,85235313,1,1
+12064,Le Metropolitan a Tribute Portfolio Hotel,Kolkata,22.5726,88.3639,Private room,375,1,23,0.52,8237570,2,1
+23895,Atala Champs Elys es,Lucknow,26.8467,80.9462,Entire home/apt,225,5,7,0.29,3820994,1,0
+2139,H tel de Jos phine BONAPARTE,Hyderabad,17.385,78.4867,Private room,100,180,0,,1417489,1,1
+36680,Maison Souquet,Mumbai,19.076,72.8777,Entire home/apt,59,5,18,2.01,219717193,2,0
+18470,Hotel Tour d Auvergne Opera,Hyderabad,17.385,78.4867,Private room,189,30,1,1.0,30283594,121,1
+48472,Le Senat,Delhi,28.7041,77.1025,Shared room,94,5,0,,7460932,1,0
+39258,Windsor Opera,Lucknow,26.8467,80.9462,Entire home/apt,145,2,0,,22374232,1,0
+48816,Holiday Inn Paris Montparnasse Pasteur,Hyderabad,17.385,78.4867,Shared room,100,4,0,,71142174,1,0
+46199,H tel Keppler,Ahmedabad,23.0225,72.5714,Shared room,50,4,3,2.5,200182757,2,0
+35055,Les Plumes Hotel,Delhi,28.7041,77.1025,Entire home/apt,49,2,62,5.81,209386156,9,0
+37329,Hotel des Tuileries Relais du Silence,Pune,18.5204,73.8567,Entire home/apt,83,2,3,3.0,5855485,1,0
+7037,Bradford Elys es Astotel,Jaipur,26.9124,75.7873,Private room,89,1,1,0.03,26133955,1,1
+41085,W London Leicester Square,Chennai,13.0827,80.2707,Entire home/apt,75,2,4,1.4,67384934,1,0
+21066,The Victoria,Lucknow,26.8467,80.9462,Shared room,99,2,21,0.7,10585694,1,0
+39943,Pullman London St Pancras,Pune,18.5204,73.8567,Shared room,55,3,11,1.76,10415675,7,0
+36625,Crowne Plaza London Kensington,Hyderabad,17.385,78.4867,Entire home/apt,185,2,6,0.79,12171344,2,0
+11427,Doubletree by Hilton London Kensington,Ahmedabad,23.0225,72.5714,Entire home/apt,57,1,6,0.13,46399563,1,0
+5929,Ace Hotel London Shoreditch,Ahmedabad,23.0225,72.5714,Entire home/apt,102,1,10,0.18,910592,1,0
+30579,Staybridge Suites London Vauxhall,Ahmedabad,23.0225,72.5714,Entire home/apt,34,1,122,8.24,82889379,4,0
+3132,The Grosvenor,Pune,18.5204,73.8567,Entire home/apt,299,4,38,0.56,9710466,1,0
+27782,The Park Tower Knightsbridge a Luxury Collection Hotel,Chennai,13.0827,80.2707,Entire home/apt,35,1,14,0.7,119848398,2,0
+37005,Amp re,Hyderabad,17.385,78.4867,Shared room,70,2,14,1.61,219544415,3,1
+23346,Melia Paris Champs Elys es,Bangalore,12.9716,77.5946,Private room,55,5,3,0.12,17766289,2,1
+33219,Le Parisis Paris Tour Eiffel,Delhi,28.7041,77.1025,Entire home/apt,75,7,11,0.91,26596078,1,0
+29531,Thistle Kensington Gardens,Jaipur,26.9124,75.7873,Entire home/apt,38,1,33,1.83,20120009,6,0
+1477,Park Plaza Sherlock Holmes London,Kolkata,22.5726,88.3639,Shared room,113,1,93,1.12,3330459,1,0
+7513,Hilton Paris Opera,Hyderabad,17.385,78.4867,Shared room,2000,30,9,0.18,836168,11,1
+6021,The Kensington Hotel,Jaipur,26.9124,75.7873,Private room,90,4,12,0.37,2770375,1,1
+41526,Holiday Inn London Stratford City,Delhi,28.7041,77.1025,Private room,129,180,0,,242330603,1,1
+30667,Staybridge Suites London Stratford,Delhi,28.7041,77.1025,Private room,325,2,2,2.0,116067987,2,1
+29191,Shepherd s Bush Boutique Hotel,Mumbai,19.076,72.8777,Entire home/apt,50,1,16,0.85,52711549,2,0
+36440,My Bloomsbury,Ahmedabad,23.0225,72.5714,Shared room,125,60,2,0.23,2802223,2,0
+3586,Holiday Inn Paris Gare de Lyon Bastille,Ahmedabad,23.0225,72.5714,Private room,300,2,0,,8280182,1,1
+20815,H tel Chaplain Paris Rive Gauche,Jaipur,26.9124,75.7873,Private room,599,3,2,0.07,69545883,12,1
+32804,H tel Regina Op ra Grands Boulevards,Lucknow,26.8467,80.9462,Entire home/apt,51,1,23,1.78,194130534,1,0
+5070,11 Cadogan Gardens,Delhi,28.7041,77.1025,Entire home/apt,175,2,25,0.43,534776,1,0
+13475,The Wellesley Knightsbridge a Luxury Collection Hotel London,Delhi,28.7041,77.1025,Private room,587,1,3,0.16,51772392,1,1
+24839,Hotel Astor Saint Honor ,Jaipur,26.9124,75.7873,Entire home/apt,65,3,15,0.65,48081884,2,0
+23270,Op ra Marigny,Hyderabad,17.385,78.4867,Private room,111,90,0,,31979360,1,1
+41571,H tel Diva Opera,Chennai,13.0827,80.2707,Private room,85,4,0,,44262594,1,1
+40683,Le Marcel,Ahmedabad,23.0225,72.5714,Entire home/apt,80,1,10,1.95,236565167,1,0
+29578,H tel Duo,Ahmedabad,23.0225,72.5714,Private room,120,60,0,,93516714,1,1
+43522,H tel Le Marianne,Ahmedabad,23.0225,72.5714,Private room,227,29,0,,219517861,327,1
+28686,The Rembrandt,Kolkata,22.5726,88.3639,Entire home/apt,67,2,8,0.42,12517694,1,0
+33391,Hotel Eden,Hyderabad,17.385,78.4867,Entire home/apt,70,1,31,2.53,151291713,2,0
+21401,H tel de la Bourdonnais,Lucknow,26.8467,80.9462,Entire home/apt,65,3,7,0.24,53743935,1,0
+13805,Ashburn Hotel,Delhi,28.7041,77.1025,Entire home/apt,100,5,14,0.33,53582731,1,0
+38542,Marlin Waterloo,Ahmedabad,23.0225,72.5714,Entire home/apt,119,2,28,3.94,1364105,1,0
+22687,Best Western Premier Marais Grands Boulevards,Hyderabad,17.385,78.4867,Entire home/apt,48,1,62,2.35,82562435,2,0
+2285,Novotel London Waterloo,Jaipur,26.9124,75.7873,Private room,125,2,116,1.55,2413714,1,1
+29110,The Athenaeum,Ahmedabad,23.0225,72.5714,Private room,275,180,5,0.27,30368670,2,1
+18994,Park International Hotel,Bangalore,12.9716,77.5946,Private room,399,3,1,0.03,5525273,1,1
+40981,Lansbury Heritage Hotel,Jaipur,26.9124,75.7873,Private room,60,30,1,1.0,238321374,32,1
+33402,Le Dokhan s a Tribute Portfolio Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,125,2,13,1.26,135585700,1,0
+9738,Le Relais Madeleine,Pune,18.5204,73.8567,Private room,40,1,23,0.56,39200438,1,1
+28945,Terrass H tel Montmartre by MH,Jaipur,26.9124,75.7873,Private room,2010,1,0,,3750764,6,1
+23539,Millennium Hotel Paris Opera,Bangalore,12.9716,77.5946,Private room,101,2,9,0.36,58225,1,1
+26748,Waldorf Madeleine,Chennai,13.0827,80.2707,Private room,295,2,7,0.33,57169534,1,1
+25001,Batty Langley s,Pune,18.5204,73.8567,Shared room,37,1,26,1.1,32446721,6,1
+41186,Best Western Mornington Hotel Hyde Park,Ahmedabad,23.0225,72.5714,Shared room,128,30,0,,240207968,2,0
+36532,Arbor City,Bangalore,12.9716,77.5946,Entire home/apt,135,1,20,2.74,10989161,1,0
+19967,Hotel La Lanterne,Bangalore,12.9716,77.5946,Private room,150,3,0,,19803201,2,1
+22099,H tel Square Louvois,Bangalore,12.9716,77.5946,Entire home/apt,115,1,134,4.81,45006492,2,0
+7245,Hotel Marignan Champs Elys es,Ahmedabad,23.0225,72.5714,Private room,150,2,8,0.16,7989115,1,1
+19135,Le Grey Hotel,Ahmedabad,23.0225,72.5714,Private room,799,3,2,0.06,96098402,12,1
+15375,Le Pavillon des Lettres,Bangalore,12.9716,77.5946,Entire home/apt,205,2,7,0.18,2861820,1,0
+47644,H tel San R gis,Pune,18.5204,73.8567,Shared room,220,4,0,,5339419,1,0
+41167,Garden Elys e,Mumbai,19.076,72.8777,Entire home/apt,35,1,33,6.56,21836588,1,0
+21671,Hotel Louvre Montana,Delhi,28.7041,77.1025,Entire home/apt,125,3,30,1.08,20410925,1,0
+6528,Ambassadors Bloomsbury,Bangalore,12.9716,77.5946,Entire home/apt,60,1,72,1.3,24418383,1,1
+38001,Le 123 S bastopol Astotel,Hyderabad,17.385,78.4867,Entire home/apt,62,5,3,0.76,160493366,1,0
+28049,Le 123 Elysees Astotel,Mumbai,19.076,72.8777,Shared room,119,1,11,0.57,159091490,17,1
+24082,The Bryson Hotel,Bangalore,12.9716,77.5946,Private room,175,30,1,0.06,120762452,50,1
+45613,Best Western Mercedes Arc de Triomphe,Jaipur,26.9124,75.7873,Shared room,90,7,0,,73869612,1,0
+36361,London Marriott Hotel Regents Park,Kolkata,22.5726,88.3639,Private room,40,2,2,0.74,215588687,6,1
+25552,Hilton London Hyde Park,Ahmedabad,23.0225,72.5714,Entire home/apt,65,1,3,0.14,145975067,3,0
+22008,Staunton Hotel B B,Hyderabad,17.385,78.4867,Entire home/apt,230,4,34,1.33,26177358,1,0
+33878,1K Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,44,6,6,0.52,79657553,1,0
+18865,H tel Westminster,Delhi,28.7041,77.1025,Private room,90,3,17,0.5,33799659,1,0
+20331,L H tel,Pune,18.5204,73.8567,Private room,250,2,14,0.51,104177785,1,0
+2793,Mercure Paris Porte d Orleans,Bangalore,12.9716,77.5946,Shared room,99,3,66,1.05,7365834,5,1
+18581,Maxim Op ra,Hyderabad,17.385,78.4867,Private room,175,30,0,,2856748,49,1
+29676,Le Marceau Bastille,Mumbai,19.076,72.8777,Entire home/apt,90,1,4,2.26,28913914,1,0
+48515,Hotel Odeon Saint Germain,Bangalore,12.9716,77.5946,Private room,349,2,0,,273038911,1,1
+39018,Mercure London Bloomsbury Hotel,Ahmedabad,23.0225,72.5714,Private room,43,20,0,,198328249,2,1
+45306,The Chamberlain,Hyderabad,17.385,78.4867,Private room,75,1,0,,38483415,4,1
+2772,Radisson Blu Edwardian Grafton,Pune,18.5204,73.8567,Private room,1100,2,17,0.25,4358024,2,1
+35496,La Villa Haussmann,Hyderabad,17.385,78.4867,Shared room,89,2,0,,13415893,1,0
+41977,London Marriott Hotel Marble Arch,Jaipur,26.9124,75.7873,Shared room,35,29,3,0.87,43044876,5,0
+26573,Saint Georges Hotel,Delhi,28.7041,77.1025,Entire home/apt,43,4,19,1.64,75563831,2,0
+17508,Park Grand London Lancaster Gate,Jaipur,26.9124,75.7873,Private room,60,2,10,0.38,38404959,2,1
+44722,The Henrietta Hotel,Jaipur,26.9124,75.7873,Private room,270,1,0,,38216858,4,1
+26102,Sofitel Paris Arc De Triomphe,Lucknow,26.8467,80.9462,Entire home/apt,45,3,12,0.54,74633496,5,1
+11307,Hotel Mercure La Sorbonne Saint Germain des Pr s,Mumbai,19.076,72.8777,Entire home/apt,140,7,16,0.49,8822845,1,0
+36169,La Tremoille Paris,Kolkata,22.5726,88.3639,Entire home/apt,140,32,29,3.94,216891728,1,0
+20713,Hotel Op ra Richepanse,Jaipur,26.9124,75.7873,Private room,38,30,0,,27977412,4,1
+5364,H tel Duc De St Simon,Lucknow,26.8467,80.9462,Entire home/apt,250,4,28,0.49,736815,1,0
+46230,Hotel Le Six,Bangalore,12.9716,77.5946,Private room,90,7,1,1.0,264798401,1,1
+47375,The Bailey s Hotel London,Lucknow,26.8467,80.9462,Private room,140,1,0,,136408243,1,1
+43016,London Marriott Hotel Park Lane,Mumbai,19.076,72.8777,Private room,169,7,1,0.53,5144567,13,1
+4478,Best Western Premier Louvre Saint Honor ,Mumbai,19.076,72.8777,Shared room,150,1,32,0.51,13969061,1,0
+45173,Hotel Indigo London Tower Hill,Hyderabad,17.385,78.4867,Shared room,69,2,0,,57007752,2,0
+29309,Windermere Hotel,Mumbai,19.076,72.8777,Entire home/apt,101,4,4,0.22,164847238,1,0
+9780,La Villa Maillot,Delhi,28.7041,77.1025,Private room,210,1,10,0.22,1825554,1,0
+32659,H tel Madison by MH,Pune,18.5204,73.8567,Entire home/apt,138,2,57,4.44,63266842,1,0
+47924,Mercure London Paddington Hotel,Kolkata,22.5726,88.3639,Private room,50,1,1,1.0,89264510,1,1
+42902,Hilton London Paddington,Lucknow,26.8467,80.9462,Entire home/apt,85,1,0,,24979023,1,1
+37457,London Marriott Hotel Kensington,Pune,18.5204,73.8567,Private room,34,4,0,,213208277,8,1
+32426,Kensington House Hotel,Kolkata,22.5726,88.3639,Entire home/apt,175,2,19,1.45,17788946,1,0
+2853,Charlotte Street Hotel,Lucknow,26.8467,80.9462,Private room,120,3,12,0.17,8783166,2,1
+1674,The Goring,Kolkata,22.5726,88.3639,Entire home/apt,133,6,22,0.33,286313,1,0
+46111,Novotel Paris 14 Porte d Orl ans,Jaipur,26.9124,75.7873,Shared room,110,30,1,1.0,189994854,1,0
+15110,The Pelham Starhotels Collezione,Pune,18.5204,73.8567,Private room,89,2,5,0.13,20161989,1,1
+41557,The Montague On The Gardens,Pune,18.5204,73.8567,Shared room,119,3,2,0.44,6771515,1,0
+8649,Ritz Paris,Bangalore,12.9716,77.5946,Entire home/apt,169,2,49,1.0,34813492,1,0
+21000,Hotel Les Rives de Notre Dame,Lucknow,26.8467,80.9462,Private room,99,2,6,0.27,51024366,1,1
+37304,Sofitel Paris Le Faubourg,Bangalore,12.9716,77.5946,Private room,174,2,9,1.13,223032162,2,0
+27502,Bassano,Kolkata,22.5726,88.3639,Entire home/apt,75,7,12,0.63,157653177,1,0
+41707,Best Western Premier Le Swann,Pune,18.5204,73.8567,Entire home/apt,220,5,5,1.95,10120673,2,0
+41225,H tel des Academies et des Arts,Lucknow,26.8467,80.9462,Shared room,80,1,0,,33386742,1,0
+31964,Hotel Lumen Paris Louvre,Delhi,28.7041,77.1025,Entire home/apt,175,2,8,0.59,164724867,1,0
+18563,Le Marquis Eiffel,Mumbai,19.076,72.8777,Private room,200,1,0,,17938076,1,1
+46100,COQ Hotel Paris,Kolkata,22.5726,88.3639,Shared room,125,2,1,1.0,9524788,1,0
+46321,Mill sime H tel,Jaipur,26.9124,75.7873,Private room,300,2,3,3.0,244131674,1,1
+35053,The Leonard Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,49,2,51,4.71,209386156,9,0
+19152,DoubleTree by Hilton London Hyde Park,Lucknow,26.8467,80.9462,Private room,534,30,0,,95459395,18,1
+35790,The Ritz London,Ahmedabad,23.0225,72.5714,Shared room,190,4,2,0.21,17760140,1,0
+22518,M by Montcalm Shoreditch London Tech City,Bangalore,12.9716,77.5946,Entire home/apt,64,1,3,0.19,125717450,1,0
+19710,Legend Saint Germain by Elegancia,Mumbai,19.076,72.8777,Shared room,229,30,3,0.12,22541573,87,1
+41577,Clayton Crown Hotel London,Chennai,13.0827,80.2707,Entire home/apt,100,3,4,1.04,73066515,3,0
+2744,Au Manoir Saint Germain,Kolkata,22.5726,88.3639,Private room,125,1,1,0.01,7919277,1,1
+30738,St Paul s Hotel,Bangalore,12.9716,77.5946,Entire home/apt,160,2,129,8.27,19909972,1,0
+48372,Best Western S vres Montparnasse,Hyderabad,17.385,78.4867,Shared room,200,1,0,,90929344,1,0
+41957,The Bloomsbury Hotel,Kolkata,22.5726,88.3639,Entire home/apt,150,2,4,0.98,17558599,1,0
+12166,Nolinski Paris,Jaipur,26.9124,75.7873,Entire home/apt,275,5,77,1.89,5037211,2,0
+4631,Le Tourville Eiffel,Bangalore,12.9716,77.5946,Private room,200,4,102,1.7,1866033,1,0
+14579,Paris Marriott Opera Ambassador Hotel,Hyderabad,17.385,78.4867,Private room,79,186,7,0.18,60501531,1,1
+37182,Hotel Indigo London Paddington,Lucknow,26.8467,80.9462,Shared room,200,5,1,0.38,621652,1,0
+41822,Idol Hotel,Ahmedabad,23.0225,72.5714,Private room,47,35,0,,244171850,10,1
+34266,H tel California Champs Elys es,Lucknow,26.8467,80.9462,Private room,150,30,0,,178224519,8,1
+7178,Hotel de Seze,Pune,18.5204,73.8567,Private room,289,10,169,3.23,27121854,1,0
+46399,Number Sixteen,Ahmedabad,23.0225,72.5714,Private room,55,1,0,,265273671,1,1
+33485,Hotel Xenia Autograph Collection,Hyderabad,17.385,78.4867,Private room,75,4,4,0.36,1004883,2,1
+44386,H tel Hor,Bangalore,12.9716,77.5946,Private room,155,3,1,0.7,258243498,3,1
+37873,Britannia International Hotel Canary Wharf,Chennai,13.0827,80.2707,Entire home/apt,75,2,29,3.73,76519640,1,0
+25548,Best Western Op ra Batignolles,Kolkata,22.5726,88.3639,Entire home/apt,50,14,1,0.13,5053976,3,1
+44562,H tel de Banville,Pune,18.5204,73.8567,Shared room,69,6,2,1.46,116674915,1,0
+47925,Villa Eugenie,Kolkata,22.5726,88.3639,Private room,123,1,0,,266981597,1,1
+20061,Hilton London Euston,Mumbai,19.076,72.8777,Entire home/apt,89,14,14,0.57,1713011,1,0
+32624,Egerton House,Pune,18.5204,73.8567,Shared room,50,1,6,0.46,62533391,7,1
+24828,Millennium Hotel London Knightsbridge,Kolkata,22.5726,88.3639,Private room,80,6,0,,31856573,1,1
+6972,H tel Raphael,Jaipur,26.9124,75.7873,Private room,150,1,9,0.24,25773982,2,1
+22472,Le 7 Eiffel Hotel,Mumbai,19.076,72.8777,Shared room,1000,2,5,0.27,125320407,5,1
+24049,Paris Marriott Rive Gauche Hotel,Pune,18.5204,73.8567,Shared room,120,2,45,1.87,124860677,6,1
+19123,Hotel La Place,Jaipur,26.9124,75.7873,Shared room,599,3,8,0.24,96098402,12,1
+48410,Hotel Le Pera,Ahmedabad,23.0225,72.5714,Shared room,100,1,1,1.0,12091973,1,0
+37771,H tel Bedford,Ahmedabad,23.0225,72.5714,Entire home/apt,30,29,1,0.3,43044876,5,0
+47679,Drawing Hotel,Jaipur,26.9124,75.7873,Private room,125,3,0,,269775225,2,1
+32440,Novotel Paris Centre Gare Montparnasse,Lucknow,26.8467,80.9462,Entire home/apt,156,1,29,2.33,21552055,2,0
+10754,D clic Hotel,Hyderabad,17.385,78.4867,Private room,125,3,8,0.17,1017231,1,0
+19869,Villa d Estr es,Kolkata,22.5726,88.3639,Private room,250,2,53,1.68,103349564,1,0
+22540,Bulgari Hotel London,Chennai,13.0827,80.2707,Entire home/apt,140,2,82,3.17,21940966,2,0
+32409,Novotel London Greenwich,Delhi,28.7041,77.1025,Entire home/apt,175,5,9,0.68,30224403,1,0
+2122,Park Avenue Baker Street,Bangalore,12.9716,77.5946,Entire home/apt,159,4,65,0.85,5333736,1,0
+21149,Hotel Plaza Elys es,Ahmedabad,23.0225,72.5714,Shared room,43,3,36,1.26,74633496,5,1
+16426,Hotel Champs Elys es Friedland by Happyculture,Delhi,28.7041,77.1025,Private room,189,30,0,,22541573,87,1
+39022,Malmaison London,Bangalore,12.9716,77.5946,Private room,215,60,0,,82189264,1,1
+23157,The Park City Grand Plaza Kensington Hotel,Bangalore,12.9716,77.5946,Shared room,225,30,0,,2856748,49,1
+1899,Park Plaza London Riverbank,Ahmedabad,23.0225,72.5714,Private room,999,10,30,0.4,3665164,1,1
+22759,Pullman Paris Tour Eiffel,Mumbai,19.076,72.8777,Entire home/apt,210,3,5,0.21,1507779,2,0
+31024,Danubius Hotel Regents Park,Hyderabad,17.385,78.4867,Entire home/apt,180,7,3,0.22,22002554,1,0
+2423,Hotel Bachaumont,Hyderabad,17.385,78.4867,Private room,103,8,5,0.21,6554341,1,0
+41527,Franklin Roosevelt,Jaipur,26.9124,75.7873,Shared room,175,3,1,1.0,203254069,1,0
+30841,H tel Horset Op ra Best Western Premier Collection,Kolkata,22.5726,88.3639,Entire home/apt,40,2,20,1.28,179387087,3,0
+30506,Best Western Paris Gare Saint Lazare,Mumbai,19.076,72.8777,Entire home/apt,95,1,78,4.79,130858402,1,0
+39892,Splendide Royal Paris,Lucknow,26.8467,80.9462,Private room,820,1,1,1.0,26556695,6,1
+17174,The Rockwell,Lucknow,26.8467,80.9462,Entire home/apt,90,3,82,2.22,56352735,1,0
+34806,The LaLit London,Lucknow,26.8467,80.9462,Shared room,160,4,2,0.23,6067124,1,0
+17109,Mercure Paris Alesia,Mumbai,19.076,72.8777,Entire home/apt,220,30,0,,2856748,49,1
+2483,Courthouse Hotel London,Kolkata,22.5726,88.3639,Shared room,350,5,0,,809716,1,1
+38224,Best Western The Boltons Hotel London Kensington,Jaipur,26.9124,75.7873,Entire home/apt,63,30,1,0.37,126653377,6,0
+41757,Radisson Blu Edwardian Sussex,Jaipur,26.9124,75.7873,Entire home/apt,112,30,0,,216419980,1,1
+29866,Hotel The Peninsula Paris,Delhi,28.7041,77.1025,Private room,450,2,27,1.79,4181378,2,1
+9773,Le Narcisse Blanc Spa,Delhi,28.7041,77.1025,Entire home/apt,140,2,19,0.4,7094504,1,0
+28778,The Pillar Hotel,Bangalore,12.9716,77.5946,Entire home/apt,221,5,7,0.38,1391186,1,0
+20126,Crowne Plaza London The City,Bangalore,12.9716,77.5946,Entire home/apt,65,2,55,5.54,66915031,1,0
+46269,H tel Les Dames du Panth on,Hyderabad,17.385,78.4867,Private room,89,3,0,,182989977,5,1
+8530,H tel Victor Hugo Paris Kl ber,Ahmedabad,23.0225,72.5714,Shared room,1000,30,27,0.57,836168,11,1
+5424,Grand Hotel Saint Michel,Bangalore,12.9716,77.5946,Shared room,81,2,4,0.08,20278196,3,1
+1269,Hotel Maison Ath n e,Bangalore,12.9716,77.5946,Private room,200,3,2,0.02,746552,1,1
+37447,Relais Du Louvre,Bangalore,12.9716,77.5946,Shared room,68,2,3,0.47,205131610,3,1
+34629,Pullman Paris Montparnasse,Kolkata,22.5726,88.3639,Private room,111,3,9,0.88,207003851,1,0
+34015,Best Western Ducs de Bourgogne,Delhi,28.7041,77.1025,Private room,340,30,0,,200380610,65,1
+33614,Best Western Premier Op ra Opal,Jaipur,26.9124,75.7873,Shared room,150,2,3,0.26,56338076,3,1
+2926,Amarante Champs Elys es,Ahmedabad,23.0225,72.5714,Private room,65,3,2,0.06,8925493,2,1
+33815,The Gore Hotel Starhotels Collezione,Delhi,28.7041,77.1025,Private room,65,30,31,2.7,201419214,3,1
+40194,The Hoxton Holborn,Kolkata,22.5726,88.3639,Shared room,42,2,12,2.4,146275359,3,1
+24343,Mercure London Kensington Hotel,Mumbai,19.076,72.8777,Entire home/apt,85,4,13,0.54,813647,1,0
+5400,Royal Garden Hotel,Hyderabad,17.385,78.4867,Entire home/apt,90,1,10,0.17,2316267,1,1
+15136,Boundary Rooms Suites,Delhi,28.7041,77.1025,Shared room,169,12,13,0.34,54378184,3,1
+43662,H tel Ad le Jules,Jaipur,26.9124,75.7873,Entire home/apt,115,2,11,4.46,251704655,3,0
+6560,Grange White Hall Hotel,Lucknow,26.8467,80.9462,Shared room,125,1,4,0.08,24530713,3,1
+30110,Hilton London Bankside,Mumbai,19.076,72.8777,Private room,190,2,5,0.32,9804931,2,0
+5844,DoubleTree by Hilton London Ealing,Hyderabad,17.385,78.4867,Shared room,75,2,25,0.43,3609048,3,1
+31973,Molitor Paris MGallery by Sofitel,Mumbai,19.076,72.8777,Entire home/apt,305,30,0,,107434423,232,0
+37362,First Hotel Paris Tour Eiffel,Bangalore,12.9716,77.5946,Shared room,200,3,0,,4452717,1,0
+34177,DoubleTree by Hilton London Victoria,Pune,18.5204,73.8567,Private room,135,2,21,2.78,204018218,1,0
+47019,St Ermin s Hotel Autograph Collection,Delhi,28.7041,77.1025,Shared room,40,2,2,2.0,173794097,1,0
+36177,Montagu Place Hotel,Kolkata,22.5726,88.3639,Private room,99,30,1,0.11,7365834,5,1
+29543,H tel Regina,Mumbai,19.076,72.8777,Entire home/apt,22,7,5,0.3,3218951,1,0
+36935,Mercure Paris Gare De Lyon TGV,Jaipur,26.9124,75.7873,Entire home/apt,175,2,3,1.23,110042455,1,0
+8055,Villa Montparnasse,Ahmedabad,23.0225,72.5714,Shared room,750,1,15,0.34,319077,4,1
+41149,H tel des Champs Elys es,Bangalore,12.9716,77.5946,Private room,450,90,0,,57761801,1,1
+33506,Lyric H tel Paris,Kolkata,22.5726,88.3639,Entire home/apt,150,3,6,0.48,40594187,1,0
+29538,Hotel Design Secret de Paris,Mumbai,19.076,72.8777,Entire home/apt,90,2,12,0.79,49222773,1,0
+3960,Hotel Dupond Smith,Mumbai,19.076,72.8777,Entire home/apt,102,7,26,0.41,8778997,1,0
+8801,Okko Hotels Paris Porte De Versailles,Bangalore,12.9716,77.5946,Entire home/apt,147,3,55,1.29,35288455,1,0
+19098,La Villa Royale,Kolkata,22.5726,88.3639,Shared room,113,30,6,0.18,40611169,5,1
+38753,Hotel Indigo Paris Opera,Hyderabad,17.385,78.4867,Entire home/apt,305,30,0,,107434423,232,0
+34447,Villa Opera Drouot,Delhi,28.7041,77.1025,Private room,110,225,0,,23773099,1,1
+14637,Novotel Paris Gare De Lyon,Delhi,28.7041,77.1025,Shared room,190,30,0,,2856748,49,1
+3645,H tel Belloy Saint Germain By Happyculture,Ahmedabad,23.0225,72.5714,Entire home/apt,150,5,9,0.15,6959160,1,0
+35111,Hotel Louis 2,Hyderabad,17.385,78.4867,Entire home/apt,100,3,5,0.66,41610771,1,0
+34261,InterContinental Paris Le Grand,Lucknow,26.8467,80.9462,Entire home/apt,175,3,6,0.57,2596736,1,0
+31431,The Trafalgar Hilton,Delhi,28.7041,77.1025,Entire home/apt,90,1,22,1.64,53781263,2,0
+20920,Park Lane Mews Hotel,Bangalore,12.9716,77.5946,Entire home/apt,73,2,48,1.86,3291579,1,0
+7329,Old Ship Inn Hackney,Delhi,28.7041,77.1025,Private room,499,30,4,0.09,28005408,1,1
+40452,The Drayton Court Hotel,Kolkata,22.5726,88.3639,Private room,100,2,0,,4233057,3,1
+34515,The Montcalm Marble Arch,Mumbai,19.076,72.8777,Entire home/apt,200,1,12,1.09,17506009,1,0
+11917,The Colonnade,Chennai,13.0827,80.2707,Entire home/apt,98,14,9,0.2,1747007,1,0
+29979,The Royal Horseguards,Pune,18.5204,73.8567,Shared room,25,1,51,2.99,43352661,3,1
+30384,Grange Fitzrovia Hotel,Lucknow,26.8467,80.9462,Entire home/apt,89,1,42,2.57,42078872,1,0
+43675,H tel Le M,Ahmedabad,23.0225,72.5714,Private room,100,5,0,,186325219,1,1
+6148,The Hari London,Jaipur,26.9124,75.7873,Entire home/apt,130,2,17,0.37,23334541,1,0
+37016,citizenM London Bankside,Chennai,13.0827,80.2707,Private room,110,7,1,0.14,24954668,1,1
+3926,Radisson Blu Edwardian Mercer Street,Pune,18.5204,73.8567,Entire home/apt,79,2,8,0.13,1301613,1,0
+5700,Twenty Nevern Square Hotel,Bangalore,12.9716,77.5946,Entire home/apt,71,2,174,3.0,7848968,2,0
+24012,The Abbey Court Notting Hill,Pune,18.5204,73.8567,Private room,300,360,0,,135703190,1,1
+1186,Seven Hotel,Lucknow,26.8467,80.9462,Private room,104,3,57,0.7,2356449,1,0
+24033,Platine Hotel Spa,Hyderabad,17.385,78.4867,Entire home/apt,191,2,37,1.5,7107479,1,0
+31622,Mercure Paris Gare Montparnasse,Ahmedabad,23.0225,72.5714,Private room,120,3,3,0.29,24790900,1,1
+48642,Mercure Paris Notre Dame Saint Germain des Pr s,Jaipur,26.9124,75.7873,Shared room,200,2,0,,15870918,1,0
+4871,Mercure Paris Centre Tour Eiffel,Delhi,28.7041,77.1025,Entire home/apt,127,4,142,2.34,5810978,1,0
+11248,Banke H tel,Chennai,13.0827,80.2707,Private room,90,4,59,1.36,41324442,1,0
+41083,Mondrian London,Chennai,13.0827,80.2707,Shared room,250,3,0,,6902218,1,0
+20094,Karma Sanctum Soho Hotel,Lucknow,26.8467,80.9462,Private room,1599,3,2,0.08,69545883,12,1
+29601,NH London Kensington,Ahmedabad,23.0225,72.5714,Shared room,68,2,10,0.94,167636238,3,1
+41769,Saint James Albany Paris Hotel Spa,Bangalore,12.9716,77.5946,Private room,100,2,22,4.93,230205171,1,0
+44070,Mercure Paris Montparnasse Raspail,Mumbai,19.076,72.8777,Private room,89,360,0,,1146958,4,1
+36531,Golden Tulip Bercy Gare de Lyon 209,Ahmedabad,23.0225,72.5714,Private room,125,1,7,0.76,218883687,2,1
+36182,Montfleuri,Jaipur,26.9124,75.7873,Shared room,105,2,1,0.11,2300366,2,0
+31157,Simply Rooms Suites,Chennai,13.0827,80.2707,Private room,158,2,20,1.34,10915812,1,0
+37063,Mercure Paris Pigalle Sacre Coeur,Ahmedabad,23.0225,72.5714,Entire home/apt,86,1,6,0.79,17813973,1,0
+29336,The Academy,Jaipur,26.9124,75.7873,Private room,350,3,1,0.05,80612882,1,0
+35278,Le Meridien Piccadilly,Bangalore,12.9716,77.5946,Private room,31,5,1,0.11,8814258,7,1
+20123,Mercure Paris Terminus Nord,Bangalore,12.9716,77.5946,Entire home/apt,40,2,4,0.13,56878925,2,0
+36306,H tel F licien by Elegancia,Pune,18.5204,73.8567,Entire home/apt,41,29,1,0.15,19303369,37,0
+33422,Le Lavoisier,Kolkata,22.5726,88.3639,Shared room,38,3,14,1.14,119669058,34,1
+34395,H tel Moli re,Lucknow,26.8467,80.9462,Private room,236,30,0,,200380610,65,1
+46766,Vice Versa,Bangalore,12.9716,77.5946,Shared room,230,1,1,0.91,9883499,1,0
+47210,The Kings Head Hotel,Pune,18.5204,73.8567,Private room,49,30,0,,268110281,3,1
+38842,H tel Etoile Saint Honor by Happyculture,Lucknow,26.8467,80.9462,Shared room,150,1,1,1.0,5439134,1,0
+21733,Hotel Le petit Paris,Jaipur,26.9124,75.7873,Private room,20,1,116,4.09,86108833,1,0
+16882,Mercure Paris 19 Philharmonie La Villette,Ahmedabad,23.0225,72.5714,Entire home/apt,190,2,9,0.25,36123030,1,0
+41642,Royal Garden Champs Elysees,Delhi,28.7041,77.1025,Private room,300,3,0,,241708736,1,1
+22922,H tel Brighton Esprit de France,Lucknow,26.8467,80.9462,Shared room,190,30,0,,128914189,2,0
+1276,H tel Paris Bastille Boutet MGallery by Sofitel,Delhi,28.7041,77.1025,Entire home/apt,199,1,0,,2694253,1,1
+29242,Montcalm Royal London House City of London,Jaipur,26.9124,75.7873,Private room,125,1,3,0.38,164391402,1,1
+45100,Conrad London St James,Hyderabad,17.385,78.4867,Private room,140,30,0,,244171850,10,1
+32136,L Edmond H tel,Mumbai,19.076,72.8777,Entire home/apt,120,3,9,0.67,1546476,1,0
+47653,Novotel Suites Paris Montreuil Vincennes,Chennai,13.0827,80.2707,Entire home/apt,500,1,4,4.0,266992480,2,0
+45899,London Marriott Hotel West India Quay,Kolkata,22.5726,88.3639,Entire home/apt,195,5,12,7.83,255222056,1,0
+48861,London Hilton on Park Lane,Bangalore,12.9716,77.5946,Private room,120,1,0,,57502664,1,0
+7414,Radisson Blu Portman Hotel London,Mumbai,19.076,72.8777,Private room,295,2,0,,25134906,1,1
+22172,H tel France d Antin Op ra,Mumbai,19.076,72.8777,Private room,337,27,0,,6945333,1,1
+6317,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,Pune,18.5204,73.8567,Entire home/apt,85,10,57,1.03,22350590,1,0
+42627,H tel De Buci by MH,Kolkata,22.5726,88.3639,Private room,82,30,0,,245637171,8,1
+45865,Hotel Parc Saint Severin Esprit de France,Jaipur,26.9124,75.7873,Entire home/apt,200,1,2,2.0,10415735,2,1
+24415,Hotel Chavanel,Chennai,13.0827,80.2707,Shared room,125,2,3,0.13,1609077,3,1
+44809,The Portobello Hotel,Mumbai,19.076,72.8777,Private room,280,30,0,,17477908,10,1
+27537,Royal Saint Honore,Kolkata,22.5726,88.3639,Shared room,485,3,2,0.32,5761098,1,0
+43017,Landmark London,Mumbai,19.076,72.8777,Private room,169,7,1,0.65,5144567,13,1
+16758,Hilton London Metropole,Jaipur,26.9124,75.7873,Private room,257,30,0,,22541573,87,1
+37563,Best Western Seraphine Kensington Olympia,Jaipur,26.9124,75.7873,Private room,500,1,0,,13460069,1,1
+47180,Portobello House,Delhi,28.7041,77.1025,Shared room,90,2,1,1.0,121705027,1,0
+7172,Le Meurice,Chennai,13.0827,80.2707,Private room,90,1,27,0.55,27084741,2,1
+758,Maison Albar Hotel Paris C line,Hyderabad,17.385,78.4867,Private room,299,3,49,0.53,1195295,1,1
+39462,Henry VIII,Lucknow,26.8467,80.9462,Private room,175,1,1,0.25,76192815,5,1
+25883,Goodenough Club,Bangalore,12.9716,77.5946,Private room,176,30,0,,76104209,33,1
+9869,Holiday Inn Paris Montmartre,Ahmedabad,23.0225,72.5714,Private room,59,4,28,0.59,26388084,2,1
+47137,Hotel Pulitzer Paris,Hyderabad,17.385,78.4867,Private room,200,30,0,,221200420,23,1
+8089,Hotel Vignon,Delhi,28.7041,77.1025,Private room,180,2,9,0.36,32406934,1,1
+38218,London Suites,Jaipur,26.9124,75.7873,Private room,75,1,1,0.15,44434863,1,1
+7078,H tel Aiglon Esprit de France,Bangalore,12.9716,77.5946,Private room,150,4,15,0.41,8329975,1,0
+5626,Sansi Diputacio,Pune,18.5204,73.8567,Shared room,125,1,0,,21232737,1,0
+15890,Park Plaza Victoria London,Lucknow,26.8467,80.9462,Private room,1000,35,6,0.16,70208173,1,1
+31741,Grange Beauchamp Hotel,Jaipur,26.9124,75.7873,Shared room,125,3,1,0.07,183736521,1,0
+5266,The Franklin Hotel Starhotels Collezione,Delhi,28.7041,77.1025,Entire home/apt,85,2,206,3.5,7848968,2,0
+34609,Club Quarters Hotel St Paul s,Kolkata,22.5726,88.3639,Shared room,106,1,2,0.22,32346001,2,0
+11327,Hotel Elys es Bassano,Hyderabad,17.385,78.4867,Entire home/apt,95,2,3,0.11,46112296,1,0
+41195,Hotel Opera Cadet,Lucknow,26.8467,80.9462,Shared room,125,3,1,0.42,240248599,1,0
+43035,Phileas Hotel,Lucknow,26.8467,80.9462,Private room,169,7,0,,5144567,13,1
+31673,Holiday Inn Paris Elys es,Jaipur,26.9124,75.7873,Entire home/apt,44,1,49,3.38,186620707,2,0
+32402,H tel Beauchamps,Ahmedabad,23.0225,72.5714,Entire home/apt,150,3,34,2.91,6101536,1,0
+47173,Best Western Nouvel Orl ans Montparnasse,Mumbai,19.076,72.8777,Private room,60,1,0,,267940629,1,1
+24918,Hotel Plaza Athenee Paris,Hyderabad,17.385,78.4867,Shared room,100,3,23,0.99,14833285,1,0
+1399,Mercure Paris Place d Italie,Pune,18.5204,73.8567,Entire home/apt,136,2,15,0.18,3097033,2,0
+36042,The Nadler Kensington,Lucknow,26.8467,80.9462,Shared room,209,1,51,5.82,56656728,5,0
+21520,H tel Da Vinci Spa,Hyderabad,17.385,78.4867,Private room,96,2,18,0.62,81876750,1,1
+34118,XO Hotel,Ahmedabad,23.0225,72.5714,Private room,999,1,2,0.22,319077,4,1
+30803,H tel Vernet,Ahmedabad,23.0225,72.5714,Entire home/apt,200,2,13,1.01,6527776,1,0
+28395,Mandarin Oriental Paris,Ahmedabad,23.0225,72.5714,Entire home/apt,120,2,1,0.05,135530716,4,0
+19217,Rosewood London,Kolkata,22.5726,88.3639,Shared room,300,1,23,0.69,76192815,5,1
+44516,Novotel Paris Vaugirard Montparnasse,Ahmedabad,23.0225,72.5714,Shared room,139,7,2,0.92,3577413,1,0
+14680,Mayflower Hotel Apartments,Mumbai,19.076,72.8777,Private room,185,30,0,,2856748,49,1
+29392,Caesar Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,38,1,48,2.64,20120009,6,0
+43970,Hotel Xanadu,Hyderabad,17.385,78.4867,Shared room,69,1,4,1.48,253906467,9,1
+8872,Draycott Hotel,Chennai,13.0827,80.2707,Entire home/apt,245,1,162,3.29,35524316,11,0
+32155,DoubleTree by Hilton London Docklands Riverside,Hyderabad,17.385,78.4867,Entire home/apt,225,1,7,0.52,23454048,1,0
+42678,Bentley London,Mumbai,19.076,72.8777,Shared room,85,4,3,1.13,249286477,1,0
+12479,Mercure Paris Arc de Triomphe Etoile,Jaipur,26.9124,75.7873,Shared room,115,2,9,0.27,47710992,1,0
+41716,Park Grand Paddington Court,Delhi,28.7041,77.1025,Entire home/apt,180,5,4,0.85,10434070,1,0
+36010,The One Barcelona GL,Lucknow,26.8467,80.9462,Shared room,65,3,17,2.26,215387072,3,1
+4815,The Zetter Townhouse Marylebone,Lucknow,26.8467,80.9462,Private room,500,2,48,0.8,17218916,1,1
+25922,Forest Hill Paris la Villette,Bangalore,12.9716,77.5946,Private room,100,3,2,0.1,148237535,4,1
+21704,The Levin Hotel,Kolkata,22.5726,88.3639,Entire home/apt,75,1,162,5.7,118084951,1,0
+33481,The Tophams Hotel,Pune,18.5204,73.8567,Private room,47,1,9,1.03,198328249,2,1
+44126,Le Pavillon de la Reine Spa,Bangalore,12.9716,77.5946,Shared room,500,4,0,,91854658,1,0
+35064,Hidden Hotel by Elegancia,Jaipur,26.9124,75.7873,Private room,190,1,9,0.99,50912,1,1
+27169,Le Roch Hotel Spa,Mumbai,19.076,72.8777,Entire home/apt,150,1,21,1.14,12216173,1,0
+42374,H10 London Waterloo,Chennai,13.0827,80.2707,Private room,50,7,1,0.52,169587048,2,1
+37060,San Domenico House,Pune,18.5204,73.8567,Shared room,72,2,15,1.77,105386434,3,1
+11165,Bloomsbury Palace Hotel,Hyderabad,17.385,78.4867,Shared room,57,3,2,0.19,2591842,1,0
+6961,Hotel du Petit Moulin,Lucknow,26.8467,80.9462,Entire home/apt,230,7,12,0.24,637688,1,0
+47748,Hotel Atmospheres,Hyderabad,17.385,78.4867,Shared room,750,1,0,,133372725,1,0
+34142,H tel La Comtesse by Elegancia,Ahmedabad,23.0225,72.5714,Private room,100,1,33,2.8,7615002,2,0
+29169,Hotel Astra Opera Astotel,Delhi,28.7041,77.1025,Entire home/apt,48,2,28,1.51,4043468,1,0
+38661,Hotel La Villa Saint Germain Des Pr s,Jaipur,26.9124,75.7873,Entire home/apt,100,7,3,0.78,2011313,1,0
+9132,Grand Pigalle Hotel,Kolkata,22.5726,88.3639,Private room,70,1,0,,16978260,1,1
+47440,Innkeeper s Lodge London Greenwich,Hyderabad,17.385,78.4867,Shared room,75,1,2,2.0,110644265,1,0
+40233,Morgan Mees,Mumbai,19.076,72.8777,Shared room,99,5,2,2.0,10198498,1,0
+9341,Hotel Duminy Vendome,Jaipur,26.9124,75.7873,Private room,120,7,11,0.32,16396714,3,0
+47639,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,Jaipur,26.9124,75.7873,Private room,150,2,0,,269606659,1,1
+24860,Holiday Inn London Mayfair,Kolkata,22.5726,88.3639,Entire home/apt,46,2,4,0.17,141322867,1,0
+35720,H tel Recamier,Bangalore,12.9716,77.5946,Shared room,40,29,2,0.29,43044876,5,0
+41136,TRYP Paris Op ra,Jaipur,26.9124,75.7873,Entire home/apt,115,2,3,0.84,52720583,1,0
+25375,Royal Saint Michel,Kolkata,22.5726,88.3639,Private room,110,1,1,0.07,138006255,2,1
+18634,Paddington Court Executive Rooms,Mumbai,19.076,72.8777,Entire home/apt,41,14,25,0.75,91804427,1,0
+36455,Novotel London Paddington,Kolkata,22.5726,88.3639,Private room,135,4,9,1.07,218457745,1,1
+21557,Hyatt Regency Paris Etoile,Jaipur,26.9124,75.7873,Shared room,58,2,68,2.35,3236595,4,0
+39607,Relais Saint Jacques,Delhi,28.7041,77.1025,Entire home/apt,140,4,4,0.65,2793924,1,0
+42549,Hotel Cambon,Hyderabad,17.385,78.4867,Shared room,75,1,5,1.38,248068752,5,1
+24856,Mercure Paris Montmartre Sacr Coeur,Jaipur,26.9124,75.7873,Private room,150,30,0,,120762452,50,1
+21345,Relais Christine,Jaipur,26.9124,75.7873,Entire home/apt,107,25,12,0.42,113924874,1,0
+17021,Les Matins de Paris Spa,Pune,18.5204,73.8567,Private room,219,30,0,,30283594,121,1
+29686,Hotel Square,Jaipur,26.9124,75.7873,Shared room,65,1,3,0.18,164886138,11,1
+27374,H tel Bourgogne Montana by MH,Jaipur,26.9124,75.7873,Shared room,125,3,1,0.05,40991179,2,0
+4440,The Westin Paris Vend me,Lucknow,26.8467,80.9462,Private room,155,25,3,0.05,14892152,1,1
+43655,Hotel Montalembert,Bangalore,12.9716,77.5946,Shared room,100,2,3,1.14,242631139,4,1
+15687,H tel Mathis Elys es,Mumbai,19.076,72.8777,Private room,87,30,2,0.06,1475015,52,1
+44112,Le Saint Hotel Paris,Kolkata,22.5726,88.3639,Shared room,49,3,1,0.45,133561420,1,0
+48329,Hotel Le Squara,Pune,18.5204,73.8567,Shared room,75,4,0,,10004428,1,0
+10666,L Hotel Pergol se Paris,Lucknow,26.8467,80.9462,Shared room,100,2,0,,11268108,1,0
+32408,H tel Mayfair Paris,Ahmedabad,23.0225,72.5714,Entire home/apt,120,4,6,0.49,13251813,1,0
+18540,Best Western Plus de Neuville Arc de Triomphe,Bangalore,12.9716,77.5946,Private room,58,3,106,3.06,90765758,1,0
+41662,South Place Hotel,Ahmedabad,23.0225,72.5714,Private room,239,29,0,,30283594,121,1
+47968,The Royal Park Hotel,Lucknow,26.8467,80.9462,Shared room,150,5,0,,270871567,1,1
+45684,Holiday Inn Paris Op ra Grands Boulevards,Pune,18.5204,73.8567,Entire home/apt,150,3,4,3.64,4267864,1,0
+45893,Henley House Hotel,Mumbai,19.076,72.8777,Private room,56,2,8,5.45,88113848,2,1
+28018,Holiday Inn London Camden Lock,Bangalore,12.9716,77.5946,Private room,150,30,2,0.14,120762452,50,1
+37893,DoubleTree by Hilton London Westminster,Pune,18.5204,73.8567,Shared room,210,4,3,0.44,225390764,1,0
+45413,Blakemore Hyde Park,Lucknow,26.8467,80.9462,Shared room,69,1,9,4.91,151810361,6,1
+46722,Hyatt Regency London The Churchill,Mumbai,19.076,72.8777,Shared room,40,30,0,,266502082,1,0
+34811,Rathbone,Delhi,28.7041,77.1025,Shared room,129,1,35,3.3,164291123,3,1
+15931,Le Belmont Champs Elys es,Lucknow,26.8467,80.9462,Shared room,150,1,6,0.16,1909320,3,1
+38657,Duret,Bangalore,12.9716,77.5946,Entire home/apt,95,2,5,0.8,11773839,1,0
+15088,H tel Elysees Mermoz,Pune,18.5204,73.8567,Private room,60,2,21,0.53,64444742,1,1
+10627,Majestic Hotel Spa,Hyderabad,17.385,78.4867,Private room,100,1,1,0.02,40336543,2,1
+28253,BoB Hotel by Elegancia,Bangalore,12.9716,77.5946,Entire home/apt,110,3,15,0.83,10763283,1,0
+7780,Comfort Inn Suites Kings Cross St Pancras,Kolkata,22.5726,88.3639,Shared room,84,1,2,0.08,30616009,1,0
+204,The Queens Gate Hotel,Jaipur,26.9124,75.7873,Private room,200,30,0,,253385,1,1
+36561,Grange Langham Court Hotel,Bangalore,12.9716,77.5946,Shared room,69,1,2,0.24,219016824,1,0
+28336,Radisson Blu Edwardian Hampshire,Lucknow,26.8467,80.9462,Entire home/apt,45,2,50,2.69,70338191,1,0
+36163,Four Seasons Hotel George V Paris,Lucknow,26.8467,80.9462,Private room,40,1,0,,109004750,1,1
+1620,The Marble Arch London,Kolkata,22.5726,88.3639,Private room,195,2,80,0.98,3847832,1,1
+33123,H tel Fabric,Jaipur,26.9124,75.7873,Entire home/apt,52,30,0,,76237449,1,1
+39812,H tel du Minist re,Chennai,13.0827,80.2707,Private room,57,30,0,,133802988,6,1
+38640,Shangri La Hotel at The Shard London,Hyderabad,17.385,78.4867,Private room,399,1,0,,213781715,33,1
+41951,Hotel Les Bulles De Paris,Pune,18.5204,73.8567,Entire home/apt,90,3,20,4.96,8714863,1,0
+44826,Acad mie H tel Saint Germain,Kolkata,22.5726,88.3639,Private room,128,1,0,,259816232,2,1
+18381,Plaza Tour Eiffel,Mumbai,19.076,72.8777,Private room,82,60,0,,484993,1,1
+642,Park Grand London Kensington,Bangalore,12.9716,77.5946,Private room,280,3,5,0.05,1276497,1,1
+28587,Rocco Forte Brown s Hotel,Jaipur,26.9124,75.7873,Shared room,290,3,4,0.39,148237535,4,1
+3621,Royal Hotel Champs Elys es,Mumbai,19.076,72.8777,Private room,100,2,13,0.36,11066377,1,1
+41080,Best Western Allegro Nation,Kolkata,22.5726,88.3639,Private room,299,1,0,,224414117,30,1
+14450,Prince de Galles a Luxury Collection hotel Paris,Jaipur,26.9124,75.7873,Entire home/apt,94,1,39,0.98,5368671,1,0
+2282,The Beaufort,Lucknow,26.8467,80.9462,Private room,190,2,0,,6024006,1,1
+10612,H tel La Parizienne by Elegancia,Mumbai,19.076,72.8777,Shared room,185,3,200,4.31,22372311,1,0
+20107,Madeleine Plaza,Lucknow,26.8467,80.9462,Private room,699,3,1,0.03,69545883,12,1
+30920,Blakes Hotel,Bangalore,12.9716,77.5946,Entire home/apt,50,3,118,8.06,65059624,1,0
+38761,Castille Paris Starhotels Collezione,Mumbai,19.076,72.8777,Private room,233,30,0,,107434423,232,1
+31819,H tel D Aubusson,Lucknow,26.8467,80.9462,Entire home/apt,200,2,16,1.57,187684303,1,0
+20327,Hotel Oscar,Mumbai,19.076,72.8777,Private room,100,2,0,,354891,1,1
+22989,Best Western Bretagne Montparnasse,Hyderabad,17.385,78.4867,Entire home/apt,120,1,8,2.09,23867523,1,0
+27248,The Westbridge Hotel,Mumbai,19.076,72.8777,Private room,42,2,13,0.65,13917921,2,1
+345,Courthouse Hotel Shoreditch,Pune,18.5204,73.8567,Private room,650,5,0,,116599,3,1
+18468,ME London by Melia,Hyderabad,17.385,78.4867,Private room,175,4,7,0.21,40238258,1,1
+46957,Grange Clarendon Hotel,Pune,18.5204,73.8567,Shared room,99,1,4,4.0,151810361,6,1
+36435,Hotel Indigo London Kensington,Pune,18.5204,73.8567,Entire home/apt,80,3,6,0.8,142059543,1,0
+45110,Novotel Paris 17,Delhi,28.7041,77.1025,Shared room,250,2,0,,260649642,1,0
+30939,Rafayel Hotel Spa,Mumbai,19.076,72.8777,Entire home/apt,75,2,70,4.6,32909393,1,0
+21209,Norfolk Towers Paddington,Jaipur,26.9124,75.7873,Entire home/apt,22,30,0,,2092314,7,1
+42586,Artus Hotel by MH,Kolkata,22.5726,88.3639,Entire home/apt,85,2,10,4.05,240717293,1,0
+40359,Best Western Premier Kapital Op ra,Jaipur,26.9124,75.7873,Entire home/apt,110,1,3,0.51,51812548,1,0
+27390,Timhotel Op ra Blanche Fontaine,Chennai,13.0827,80.2707,Private room,35,4,67,3.61,6690551,1,0
+18256,H tel Amastan Paris,Hyderabad,17.385,78.4867,Entire home/apt,100,5,13,1.04,87537411,1,0
+34372,H tel Gustave,Pune,18.5204,73.8567,Shared room,95,3,3,0.26,84825183,1,0
+9231,Best Western Maitrise Hotel Edgware Road,Jaipur,26.9124,75.7873,Entire home/apt,220,1,84,1.75,8082431,1,0
+42239,Georgian House Hotel,Delhi,28.7041,77.1025,Private room,175,1,4,1.4,246664340,1,0
+16402,Best Western Tour Eiffel Invalides,Pune,18.5204,73.8567,Entire home/apt,99,1,180,4.86,31154454,2,0
+29705,The Chesterfield Mayfair,Chennai,13.0827,80.2707,Private room,65,1,1,0.07,164886138,11,1
+23909,My Chelsea,Jaipur,26.9124,75.7873,Entire home/apt,120,3,38,3.37,13547493,2,0
+44188,Eiffel Trocad ro,Mumbai,19.076,72.8777,Private room,240,1,0,,34689714,5,1
+5230,Hotel Saint Petersbourg Opera,Pune,18.5204,73.8567,Private room,115,1,16,0.27,16065171,1,1
+37851,H tel Champs lys es Plaza,Bangalore,12.9716,77.5946,Shared room,150,4,2,0.25,151901555,1,0
+2713,Melia Paris Tour Eiffel,Kolkata,22.5726,88.3639,Private room,300,2,23,0.32,7837136,1,1
+39227,Timhotel Op ra Grands Magasins,Chennai,13.0827,80.2707,Shared room,80,3,2,0.47,5221013,1,0
+34189,Dukes Hotel,Jaipur,26.9124,75.7873,Entire home/apt,45,30,5,0.51,19303369,37,0
+16473,Radisson Blu Edwardian Berkshire,Mumbai,19.076,72.8777,Private room,225,30,0,,2856748,49,1
+27952,Pestana Chelsea Bridge Hotel Spa,Kolkata,22.5726,88.3639,Entire home/apt,70,2,16,0.85,57291936,1,0
+39802,Arbor Hyde Park,Ahmedabad,23.0225,72.5714,Shared room,85,4,0,,76388052,1,0
+28947,Mercure Paris Porte De Versailles Expo,Lucknow,26.8467,80.9462,Private room,4160,1,0,,3750764,6,1
+38529,Great St Helen Hotel,Lucknow,26.8467,80.9462,Private room,499,30,0,,163251048,8,1
+33901,Hotel Whistler,Bangalore,12.9716,77.5946,Shared room,65,30,21,2.05,201824419,3,1
+18272,Hotel Georgette,Delhi,28.7041,77.1025,Private room,34,30,14,0.41,87723508,2,1
+6368,Westside Arc de Triomphe Hotel,Bangalore,12.9716,77.5946,Private room,99,1,3,0.23,24030482,1,1
+24053,Etoile Saint Ferdinand,Mumbai,19.076,72.8777,Entire home/apt,70,30,10,0.41,5749658,1,0
+1019,H tel Saint Marc,Jaipur,26.9124,75.7873,Shared room,500,1,54,0.65,319077,4,1
+21775,United Lodge Hotel and Apartments,Hyderabad,17.385,78.4867,Private room,195,30,0,,3191545,23,1
+1705,H tel Le Walt,Delhi,28.7041,77.1025,Private room,120,3,22,0.31,4076876,1,1
+139,H tel Le Royal Monceau Raffles Paris,Pune,18.5204,73.8567,Private room,135,4,84,0.77,116599,3,1
+44373,Eccleston Square Hotel,Pune,18.5204,73.8567,Private room,277,29,0,,219517861,327,1
+36800,Nottingham Place Hotel,Kolkata,22.5726,88.3639,Entire home/apt,195,2,10,1.16,16955151,1,0
+21772,Hotel Claridge Paris,Hyderabad,17.385,78.4867,Shared room,199,30,6,0.23,3191545,23,1
+6222,Strand Palace Hotel,Mumbai,19.076,72.8777,Private room,205,2,3,0.05,23588055,1,1
+43933,H tel L Echiquier Op ra Paris MGallery by Sofitel,Bangalore,12.9716,77.5946,Entire home/apt,160,3,3,1.88,4189194,1,0
+31232,H tel De Castiglione,Hyderabad,17.385,78.4867,Private room,200,2,22,1.57,143589,1,0
+48485,Hilton London Olympia,Delhi,28.7041,77.1025,Shared room,150,5,0,,49037454,1,0
+37862,Grange Buckingham Hotel,Bangalore,12.9716,77.5946,Entire home/apt,64,2,7,0.92,70431576,1,0
+45535,The Cleveland,Kolkata,22.5726,88.3639,Shared room,75,1,3,1.76,262360035,6,1
+31470,Dorset Square Hotel,Kolkata,22.5726,88.3639,Entire home/apt,148,2,5,0.34,2450194,1,0
+47348,Edouard 7 Paris Op ra,Ahmedabad,23.0225,72.5714,Private room,79,30,1,1.0,268572259,3,1
+21595,Renaissance Paris Arc de Triomphe Hotel,Ahmedabad,23.0225,72.5714,Shared room,150,7,12,0.42,4680813,1,0
+17272,Rubens At The Palace,Pune,18.5204,73.8567,Entire home/apt,200,2,35,0.95,79341807,1,0
+181,every hotel Piccadilly,Kolkata,22.5726,88.3639,Shared room,350,8,10,0.11,204539,5,1
+2609,Millennium Gloucester Hotel London,Lucknow,26.8467,80.9462,Private room,220,1,2,0.03,176903,2,1
+41183,Novotel Suites Paris Expo Porte de Versailles,Ahmedabad,23.0225,72.5714,Private room,128,30,0,,240207968,2,1
+25655,K K H tel Cayr Saint Germain des Pr s,Lucknow,26.8467,80.9462,Entire home/apt,250,3,3,0.16,146677115,1,0
+46389,Fielding Hotel,Ahmedabad,23.0225,72.5714,Shared room,500,1,1,1.0,109533480,1,1
+46618,DoubleTree by Hilton Hotel London Marble Arch,Delhi,28.7041,77.1025,Shared room,150,1,1,1.0,16562278,1,0
+1257,Holiday Inn London West,Bangalore,12.9716,77.5946,Private room,150,3,74,0.87,2645592,2,1
+46402,The Soho Hotel,Bangalore,12.9716,77.5946,Private room,750,1,0,,164704496,1,1
+38796,Le Grand H tel de Normandie,Pune,18.5204,73.8567,Entire home/apt,388,30,0,,107434423,232,0
+40944,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,Hyderabad,17.385,78.4867,Entire home/apt,50,2,6,1.1,120974332,2,0
+34443,H tel de La Tamise Esprit de France,Lucknow,26.8467,80.9462,Private room,80,7,1,0.16,94214493,9,1
+15128,Buddha Bar Hotel Paris,Bangalore,12.9716,77.5946,Shared room,239,30,0,,30283594,121,1
+32619,Le A,Delhi,28.7041,77.1025,Entire home/apt,33,2,8,0.71,21850707,1,0
+19150,Holiday Inn Paris Notre Dame,Bangalore,12.9716,77.5946,Private room,321,30,0,,95459395,18,1
+40013,Mercure Paris Opera Garnier,Hyderabad,17.385,78.4867,Shared room,70,3,2,0.32,19630705,1,0
+35919,Maison Albar Hotel Paris Op ra Diamond,Bangalore,12.9716,77.5946,Shared room,47,30,0,,19303369,37,0
+16850,Grand H tel Du Palais Royal,Hyderabad,17.385,78.4867,Private room,239,30,0,,30283594,121,1
+5351,Best Western Aulivia Op ra,Mumbai,19.076,72.8777,Private room,860,4,39,0.67,14733148,1,1
+20164,Renaissance Paris Vendome Hotel,Pune,18.5204,73.8567,Private room,699,3,2,0.06,69545883,12,1
+10072,Hotel Park Lane Paris,Kolkata,22.5726,88.3639,Shared room,150,1,78,2.22,40611169,5,1
+42938,Little Palace Hotel,Mumbai,19.076,72.8777,Entire home/apt,140,2,4,1.58,50321289,3,0
+16941,Napoleon Paris,Ahmedabad,23.0225,72.5714,Private room,80,28,1,0.1,16631094,1,1
+19313,Andaz London Liverpool Street,Bangalore,12.9716,77.5946,Entire home/apt,100,3,92,3.26,63746890,1,0
+44327,Novotel London Canary Wharf,Lucknow,26.8467,80.9462,Entire home/apt,249,5,2,2.0,82537581,1,1
+30175,H tel de Lille,Bangalore,12.9716,77.5946,Shared room,34,1,2,0.12,136455880,2,0
+32561,H tel Concorde Montparnasse,Hyderabad,17.385,78.4867,Shared room,125,3,6,0.47,72470941,1,0
+12033,Suites H tel Helzear Montparnasse,Kolkata,22.5726,88.3639,Shared room,75,1,0,,48592068,1,0
+23202,Renaissance Paris Republique Hotel Spa,Pune,18.5204,73.8567,Entire home/apt,125,3,96,3.87,130774685,1,0
+46914,citizenM Tower of London,Delhi,28.7041,77.1025,Private room,45,2,1,1.0,266983536,1,1
+37074,Chiswick Rooms,Pune,18.5204,73.8567,Private room,255,30,0,,200380610,65,1
+12145,Claridge s,Ahmedabad,23.0225,72.5714,Private room,90,2,3,0.48,31985378,1,0
+32563,La Suite West Hyde Park,Pune,18.5204,73.8567,Private room,500,1,0,,60826656,1,1
+43695,St James Court A Taj Hotel London,Delhi,28.7041,77.1025,Shared room,75,30,0,,225055374,3,1
+19027,Elys es R gencia,Mumbai,19.076,72.8777,Private room,132,4,10,0.57,39300337,2,1
+23405,H tel De Sers Champs Elys es Paris,Jaipur,26.9124,75.7873,Private room,90,6,0,,62475681,1,1
+32691,Hotel le Lapin Blanc,Ahmedabad,23.0225,72.5714,Shared room,124,2,11,0.94,193558362,1,0
+19427,41,Lucknow,26.8467,80.9462,Private room,534,30,0,,95459395,18,1
+38880,Shaftesbury Suites London Marble Arch,Jaipur,26.9124,75.7873,Shared room,110,5,3,0.41,214979297,1,0
+39593,Grange Strathmore Hotel,Chennai,13.0827,80.2707,Entire home/apt,199,1,1,0.15,224414117,30,1
+48880,H tel R de Paris Boutique Hotel,Pune,18.5204,73.8567,Shared room,120,1,0,,208514239,3,1
+46964,Villa Panth on,Kolkata,22.5726,88.3639,Private room,200,2,4,4.0,267193767,1,1
+31797,Trinit Haussmann,Chennai,13.0827,80.2707,Private room,157,1,6,0.42,187530856,2,1
+15494,The RE London Shoreditch,Pune,18.5204,73.8567,Private room,60,2,53,1.37,67208195,2,1
+48844,London City Suites,Mumbai,19.076,72.8777,Private room,205,1,0,,115491896,1,1
+20121,H tel Crayon Rouge by Elegancia,Bangalore,12.9716,77.5946,Private room,180,4,63,2.02,44802851,1,0
+40776,Mercure Paris Opera Grands Boulevards,Delhi,28.7041,77.1025,Shared room,175,3,2,0.53,230930866,1,0
+4470,St George s Hotel Wembley,Bangalore,12.9716,77.5946,Entire home/apt,220,8,5,0.08,2539525,1,0
+35541,Hotel Le Saint Gregoire,Lucknow,26.8467,80.9462,Entire home/apt,120,1,56,5.81,213065914,1,0
+41507,Le Mathurin Hotel Spa,Ahmedabad,23.0225,72.5714,Private room,35,2,10,2.1,235146087,1,0
+31760,H tel Saint Paul Rive Gauche,Lucknow,26.8467,80.9462,Shared room,59,2,6,0.43,15838559,4,0
+28070,The Justin James Hotel,Kolkata,22.5726,88.3639,Entire home/apt,150,2,15,0.76,9238069,1,0
+44684,Millennium Hotel London Mayfair,Ahmedabad,23.0225,72.5714,Private room,200,30,0,,255697979,2,1
+25482,H tel de Varenne,Hyderabad,17.385,78.4867,Entire home/apt,99,14,6,0.27,29967049,1,0
+34990,A La Villa Madame,Delhi,28.7041,77.1025,Entire home/apt,300,2,12,1.14,3048319,2,0
+35516,The Curtain,Chennai,13.0827,80.2707,Private room,430,2,10,1.06,35649879,1,1
+42744,45 Park Lane Dorchester Collection,Mumbai,19.076,72.8777,Entire home/apt,65,3,4,1.29,89035025,1,0
+46411,Grange Tower Bridge Hotel,Hyderabad,17.385,78.4867,Shared room,350,4,1,1.0,264950723,1,0
+41306,Le Tsuba Hotel,Hyderabad,17.385,78.4867,Shared room,100,10,2,0.9,1570799,1,0
+22390,St Martins Lane A Morgans Original,Delhi,28.7041,77.1025,Entire home/apt,70,3,0,,124486054,1,1
+33145,H tel Barri re Le Fouquet s,Mumbai,19.076,72.8777,Shared room,200,2,2,0.16,7235975,1,0
+27052,Novotel London Blackfriars,Mumbai,19.076,72.8777,Private room,40,3,5,0.46,77750223,2,1
+285,Hotel Villa Lafayette Paris IX,Mumbai,19.076,72.8777,Shared room,95,1,109,1.11,314941,3,1
+7660,Canary Riverside Plaza Hotel,Hyderabad,17.385,78.4867,Shared room,30,21,1,0.02,12212944,2,0
+2672,The Marylebone Hotel,Mumbai,19.076,72.8777,Entire home/apt,75,5,13,0.56,5531489,1,0
+36838,L Empire Paris,Jaipur,26.9124,75.7873,Entire home/apt,66,2,23,3.14,220601248,2,0
+46578,The Zetter Townhouse Clerkenwell,Pune,18.5204,73.8567,Private room,41,2,1,1.0,264043510,6,1
+22929,The Whitechapel,Lucknow,26.8467,80.9462,Private room,232,30,2,0.1,2856748,49,1
+14276,Suites H tel Helzear Champs Elys es,Chennai,13.0827,80.2707,Private room,207,2,58,1.49,38068387,4,0
+27922,St George Hotel,Mumbai,19.076,72.8777,Private room,1066,1,2,0.2,7724142,1,1
+41229,Best Western Premier Op ra Faubourg Ex Hotel Jules ,Jaipur,26.9124,75.7873,Entire home/apt,85,2,20,4.29,41869388,1,0
+21780,Pershing Hall,Hyderabad,17.385,78.4867,Private room,243,30,0,,3191545,23,1
+15443,The Premier Notting Hill,Kolkata,22.5726,88.3639,Private room,325,4,12,0.49,66919869,1,0
+3888,H tel Pont Royal,Mumbai,19.076,72.8777,Private room,400,7,0,,132244,1,1
+48852,Le G n ral H tel,Kolkata,22.5726,88.3639,Shared room,30,1,1,1.0,74162901,1,0
+33017,H tel Th r se,Ahmedabad,23.0225,72.5714,Shared room,50,13,0,,33996519,1,0
+23194,Best Western Premier Trocadero La Tour,Lucknow,26.8467,80.9462,Private room,184,30,0,,2856748,49,1
+10543,Holiday Inn London Whitechapel,Pune,18.5204,73.8567,Private room,250,3,0,,17377835,1,1
+15016,Washington Mayfair Hotel,Ahmedabad,23.0225,72.5714,Shared room,65,1,152,3.8,15817123,3,0
+26610,Radisson Blu Edwardian New Providence Wharf,Ahmedabad,23.0225,72.5714,Entire home/apt,225,1,74,3.66,15751193,1,0
+24781,Hilton London Tower Bridge,Kolkata,22.5726,88.3639,Shared room,250,5,2,0.11,26645843,1,0
+1453,Novotel London Wembley,Delhi,28.7041,77.1025,Private room,200,3,56,0.96,3274376,1,1
+10305,Le Relais M dicis,Jaipur,26.9124,75.7873,Private room,79,2,2,0.22,11010205,2,1
+29416,Les Jardins De La Villa Spa,Ahmedabad,23.0225,72.5714,Private room,300,3,0,,150858745,1,0
+9391,Warwick Paris Former Warwick Champs Elysees ,Jaipur,26.9124,75.7873,Entire home/apt,160,10,25,0.53,37711914,1,0
+37047,Park Hyatt Paris Vendome,Chennai,13.0827,80.2707,Private room,119,1,0,,213781715,33,1
+10083,My Home In Paris,Ahmedabad,23.0225,72.5714,Entire home/apt,200,4,12,0.25,1289713,1,0
+29033,Mercure Paris Op ra Faubourg Montmartre,Ahmedabad,23.0225,72.5714,Entire home/apt,200,2,8,0.5,16026189,2,0
+16556,Best Western Plus Elys e Secret,Delhi,28.7041,77.1025,Entire home/apt,150,3,6,0.17,74653179,1,0
+18725,Villa Beaumarchais,Mumbai,19.076,72.8777,Entire home/apt,85,3,49,1.46,92690603,1,0
+48556,H tel Mansart Esprit de France,Bangalore,12.9716,77.5946,Private room,285,5,0,,138379336,1,1
+2549,Holiday Inn Paris Gare de l Est,Jaipur,26.9124,75.7873,Private room,225,4,5,0.07,7178784,1,1
+6974,Le Cinq Codet,Hyderabad,17.385,78.4867,Shared room,100,3,28,0.55,25773982,2,1
+37299,La Maison Favart,Delhi,28.7041,77.1025,Shared room,149,1,7,0.95,33213436,8,1
+1500,Le Pradey,Ahmedabad,23.0225,72.5714,Private room,58,2,56,0.67,27848,2,1
+11496,Threadneedles Autograph Collection,Lucknow,26.8467,80.9462,Shared room,55,1,4,0.19,9864136,26,1
+36847,Sanderson A Morgans Hotel,Mumbai,19.076,72.8777,Shared room,250,1,2,0.23,172859639,1,0
+43703,The Arch London,Chennai,13.0827,80.2707,Shared room,67,1,12,4.74,29349060,3,1
+7535,Commodore Hotel,Hyderabad,17.385,78.4867,Shared room,82,2,11,0.32,26080167,3,1
+19041,Golden Tulip Washington Opera,Lucknow,26.8467,80.9462,Private room,475,1,0,,5424751,1,1
+37847,Residence Henri IV,Chennai,13.0827,80.2707,Entire home/apt,400,3,3,0.49,12784820,1,0
+44874,Hotel du Collectionneur Arc de Triomphe,Chennai,13.0827,80.2707,Entire home/apt,150,2,7,4.12,260021770,1,0
+39910,The Westbourne Hyde Park,Lucknow,26.8467,80.9462,Private room,100,7,0,,231667071,1,1
+34707,Hotel Le Mareuil,Bangalore,12.9716,77.5946,Entire home/apt,160,1,17,1.62,92611851,1,0
+41117,Mercure Paris Champs Elys es,Delhi,28.7041,77.1025,Private room,199,30,0,,230165497,4,1
+638,Best Western Le 18 Paris,Kolkata,22.5726,88.3639,Shared room,110,6,8,0.33,1264655,1,0
+22660,The Lodge Hotel Putney,Delhi,28.7041,77.1025,Entire home/apt,200,1,4,0.15,81671685,1,1
+33862,Shaftesbury Hyde Park International,Chennai,13.0827,80.2707,Shared room,140,2,4,0.42,382836,4,1
+11376,The Montcalm At Brewery London City,Mumbai,19.076,72.8777,Entire home/apt,179,3,26,0.58,3411058,1,0
+42517,H tel Powers,Hyderabad,17.385,78.4867,Entire home/apt,70,5,1,0.37,96737879,3,0
+17803,Villa Lut ce Port Royal,Kolkata,22.5726,88.3639,Shared room,55,5,28,0.81,74331597,5,1
+19139,Oceania Paris Porte De Versailles,Jaipur,26.9124,75.7873,Shared room,799,4,3,0.09,96098402,12,1
+33907,BEST WESTERN Maitrise Hotel Maida Vale,Pune,18.5204,73.8567,Shared room,68,30,14,1.26,23188519,6,1
+31815,Novotel London City South,Pune,18.5204,73.8567,Entire home/apt,160,2,20,1.47,27958360,1,0
+37070,The Dorchester Dorchester Collection,Pune,18.5204,73.8567,Entire home/apt,130,4,3,0.4,586840,1,0
+4845,Mercure Paris Bastille Marais,Delhi,28.7041,77.1025,Private room,150,1,0,,14509754,1,1
+4493,Hilton London Angel Islington,Kolkata,22.5726,88.3639,Entire home/apt,200,30,38,0.63,15740819,2,0
+35148,Fifty Four Boutique Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,200,4,6,0.61,4336107,1,0
+32707,Chateau Frontenac,Chennai,13.0827,80.2707,Entire home/apt,45,2,26,2.02,105828086,4,0
+10054,H tel Du Jeu De Paume,Kolkata,22.5726,88.3639,Entire home/apt,147,4,91,2.1,3074287,2,0
+37839,The Sumner Hotel,Jaipur,26.9124,75.7873,Entire home/apt,350,3,1,0.16,8618782,1,0
+40766,W12 Rooms,Pune,18.5204,73.8567,Private room,250,31,1,0.25,113805886,33,1
+24947,Renaissance Paris Le Parc Trocadero Hotel,Kolkata,22.5726,88.3639,Entire home/apt,57,2,103,4.34,33527075,2,0
+45570,Shaftesbury Premier London Paddington,Hyderabad,17.385,78.4867,Private room,190,30,0,,61396454,14,1
+15946,Hotel Carlton s Montmartre,Chennai,13.0827,80.2707,Private room,250,366,0,,16476167,1,1
+33236,Hotel Monge,Pune,18.5204,73.8567,Shared room,35,3,0,,71742050,1,0
+35552,Mimi s Hotel Soho,Kolkata,22.5726,88.3639,Entire home/apt,58,3,24,2.62,19418027,1,0
+19956,Victoires Opera,Mumbai,19.076,72.8777,Shared room,250,30,3,0.19,3256433,7,0
+38216,Holiday Inn London Oxford Circus,Bangalore,12.9716,77.5946,Entire home/apt,225,5,4,0.54,46068130,2,0
+16779,Dorsett Shepherds Bush,Ahmedabad,23.0225,72.5714,Entire home/apt,180,2,0,,54454582,3,0
+42236,New Linden Hotel,Mumbai,19.076,72.8777,Shared room,50,7,2,1.33,481630,2,0
+8043,Le Burgundy Paris,Jaipur,26.9124,75.7873,Private room,200,3,30,0.65,1245722,1,1
+25635,Hotel Sezz Paris,Lucknow,26.8467,80.9462,Private room,233,90,0,,1188096,1,1
+3184,Hotel Montaigne,Bangalore,12.9716,77.5946,Private room,70,3,30,0.6,5097458,1,1
+36664,Hotel Royal Elys es,Pune,18.5204,73.8567,Private room,180,30,0,,200380610,65,1
+38213,Mercure Paris Bercy Biblioth que,Jaipur,26.9124,75.7873,Entire home/apt,85,3,15,2.13,215944788,3,0
+29885,Hazlitt s,Ahmedabad,23.0225,72.5714,Entire home/apt,350,3,15,0.9,61849126,1,0
+22447,Park Plaza London Waterloo,Hyderabad,17.385,78.4867,Private room,95,2,113,4.15,124142417,2,0
+30459,citizenM London Shoreditch,Hyderabad,17.385,78.4867,Private room,250,3,0,,104475208,1,1
+33062,H tel Balzac,Mumbai,19.076,72.8777,Entire home/apt,200,4,18,1.42,196017028,1,0
+47189,Victoria Palace Hotel,Mumbai,19.076,72.8777,Shared room,140,3,1,1.0,4481028,1,0
+26658,Hotel Eug ne en Ville,Lucknow,26.8467,80.9462,Private room,150,30,2,0.28,120762452,50,1
+47855,Newhotel Roblin,Delhi,28.7041,77.1025,Private room,66,2,2,2.0,118405437,2,1
+23098,Le Relais Montmartre,Lucknow,26.8467,80.9462,Entire home/apt,180,2,36,1.4,104691618,1,0
+41395,Amarante Beau Manoir,Mumbai,19.076,72.8777,Entire home/apt,175,2,7,2.92,34468788,1,0
+9451,Hotel Maison FL,Bangalore,12.9716,77.5946,Entire home/apt,100,1,13,0.27,37947830,1,0
+4110,Balmoral Champs Elys es,Mumbai,19.076,72.8777,Entire home/apt,95,3,25,3.04,2687435,1,0
+14811,The Chess Hotel,Hyderabad,17.385,78.4867,Entire home/apt,125,2,104,2.63,62359474,1,0
+42747,AC Hotel Paris Porte Maillot by Marriott,Hyderabad,17.385,78.4867,Shared room,250,8,0,,64689615,1,0
+48012,B Montmartre,Lucknow,26.8467,80.9462,Shared room,240,2,0,,271114286,1,0
+2241,H tel Regent s Garden,Ahmedabad,23.0225,72.5714,Private room,150,7,44,0.74,11837926,3,1
+2701,Mercure Paris 15 Porte de Versailles,Mumbai,19.076,72.8777,Private room,150,2,0,,6122499,1,1
+26695,Hotel Le Placide Saint Germain Des Pr s,Lucknow,26.8467,80.9462,Private room,165,2,11,0.53,153150422,1,0
+200,Hotel VIU Milan,Ahmedabad,23.0225,72.5714,Private room,140,7,6,0.06,204539,5,1
+4527,Sofitel London St James,Ahmedabad,23.0225,72.5714,Private room,199,1,0,,15667008,1,1
+48336,Baglioni Hotel London The Leading Hotels of the World,Chennai,13.0827,80.2707,Private room,30,1,0,,67567916,4,1
+47007,DoubleTree by Hilton London Islington,Lucknow,26.8467,80.9462,Private room,46,1,1,1.0,24423571,1,1
+16060,Nell Hotel Suites,Lucknow,26.8467,80.9462,Shared room,115,10,2,0.09,71499258,1,0
+22512,Rydges Kensington Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,100,1,68,2.62,43200701,1,0
+1550,Club Quarters Hotel Lincoln s Inn Fields,Jaipur,26.9124,75.7873,Private room,80,2,14,0.17,3598306,2,1
+21020,Novotel Paris Centre Tour Eiffel,Jaipur,26.9124,75.7873,Shared room,64,1,103,3.4,7831209,10,1
+31823,Best Western Plus 61 Paris Nation Hotel,Ahmedabad,23.0225,72.5714,Shared room,30,1,24,1.67,187718165,1,0
+5414,Hotel Monsieur,Ahmedabad,23.0225,72.5714,Shared room,95,2,7,0.13,20278196,3,1
+26190,Hotel Saint Dominique,Delhi,28.7041,77.1025,Entire home/apt,78,2,20,0.91,75458625,4,1
+20934,Clayton Hotel Chiswick,Bangalore,12.9716,77.5946,Private room,120,1,0,,42076125,2,1
+21714,Park Plaza London Park Royal,Jaipur,26.9124,75.7873,Entire home/apt,64,2,16,0.57,432867,1,0
+33798,Hotel Malte Astotel,Bangalore,12.9716,77.5946,Entire home/apt,174,2,6,2.12,16149213,1,0
+41252,Best Western Palm Hotel,Hyderabad,17.385,78.4867,Private room,96,3,1,0.56,1507408,1,1
+45753,InterContinental Paris Avenue Marceau,Bangalore,12.9716,77.5946,Shared room,78,2,7,5.38,126012313,1,0
+1724,Mercure Tour Eiffel Grenelle,Mumbai,19.076,72.8777,Entire home/apt,60,3,86,1.13,2723812,2,0
+26684,Mercure Paris Bastille Saint Antoine,Hyderabad,17.385,78.4867,Private room,175,30,0,,120762452,50,1
+97,Boutique H tel Konfidentiel,Jaipur,26.9124,75.7873,Private room,89,1,1,0.11,82685,1,1
+36289,The Piccadilly London West End,Bangalore,12.9716,77.5946,Private room,75,1,0,,47564333,1,1
+33853,R Kipling by Happyculture,Jaipur,26.9124,75.7873,Entire home/apt,225,2,12,1.07,47596725,1,0
+3813,Hotel Des Saints Peres Esprit de France,Lucknow,26.8467,80.9462,Private room,900,1,0,,11733037,1,1
+14837,Best Western Hotel Montmartre Sacr Coeur,Hyderabad,17.385,78.4867,Private room,99,1,88,2.22,62535444,2,1
+26311,Kingsway Hall Hotel,Bangalore,12.9716,77.5946,Entire home/apt,110,1,41,1.87,10980826,1,0
+2726,Mandarin Oriental Hyde Park London,Bangalore,12.9716,77.5946,Private room,349,1,26,0.36,4260529,2,1
+8111,H tel Jos phine by Happyculture,Mumbai,19.076,72.8777,Private room,105,2,80,1.66,17264040,2,1
+11748,Radisson Blu Edwardian Vanderbilt,Delhi,28.7041,77.1025,Private room,120,360,0,,3092054,1,1
+35244,Hotel Le Chat Noir,Jaipur,26.9124,75.7873,Private room,160,30,0,,200380610,65,1
+47307,Hotel Cafe Royal,Mumbai,19.076,72.8777,Shared room,310,3,1,1.0,12166612,1,0
+42123,Mercure Vaugirard Paris Porte De Versailles,Delhi,28.7041,77.1025,Private room,39,2,1,0.5,163749958,3,1
+25892,Grange Rochester Hotel,Lucknow,26.8467,80.9462,Entire home/apt,130,5,7,0.52,14120985,2,0
+23164,Gainsborough Hotel,Bangalore,12.9716,77.5946,Private room,100,7,1,0.28,73214623,1,1
+13869,H tel Bel Ami,Ahmedabad,23.0225,72.5714,Entire home/apt,58,1,5,0.13,2503478,1,0
+18673,St James Hotel Club Mayfair,Hyderabad,17.385,78.4867,Private room,400,4,0,,92238446,1,1
+22754,Apex London Wall Hotel,Lucknow,26.8467,80.9462,Entire home/apt,99,5,35,1.32,11191325,1,0
+18812,Seraphine Kensington Gardens Hotel,Delhi,28.7041,77.1025,Entire home/apt,93,3,48,1.42,51752700,1,0
+40688,Hotel de Nell,Bangalore,12.9716,77.5946,Entire home/apt,115,30,0,,15989140,1,0
+40442,9Hotel Republique,Jaipur,26.9124,75.7873,Private room,250,14,0,,14671652,1,1
+47027,Goralska R sidences H tel Paris Bastille,Bangalore,12.9716,77.5946,Entire home/apt,100,2,3,3.0,46094733,1,0
+29544,Club Quarters Hotel Gracechurch,Hyderabad,17.385,78.4867,Private room,150,3,1,0.07,167188752,1,1
+38146,Grange Blooms Hotel,Ahmedabad,23.0225,72.5714,Shared room,70,1,1,0.16,4361061,2,0
+39857,DoubleTree by Hilton Hotel London Tower of London,Ahmedabad,23.0225,72.5714,Private room,69,2,0,,164886138,11,1
+48662,H tel Baume,Mumbai,19.076,72.8777,Private room,66,1,0,,118405437,2,1
+33419,Hotel West End,Lucknow,26.8467,80.9462,Shared room,38,1,17,1.39,119669058,34,1
+10959,Arioso,Pune,18.5204,73.8567,Entire home/apt,250,30,8,0.2,3256433,7,0
+39413,H tel Lancaster Paris Champs Elys es,Delhi,28.7041,77.1025,Private room,150,30,0,,178224519,8,1
+25186,Melia Paris Notre Dame,Delhi,28.7041,77.1025,Shared room,43,2,65,2.87,124860677,6,1
+37160,Hotel Mademoiselle,Bangalore,12.9716,77.5946,Entire home/apt,300,2,6,0.8,39801631,1,0
+18302,Hotel Les Bains Paris,Jaipur,26.9124,75.7873,Private room,179,30,0,,22541573,87,1
+26021,Hotel Ares Eiffel,Delhi,28.7041,77.1025,Private room,175,30,0,,76104209,33,1
+39823,Francois 1er,Pune,18.5204,73.8567,Private room,55,30,0,,17706542,6,1
+24937,H tel Montmartre Mon Amour,Delhi,28.7041,77.1025,Entire home/apt,239,2,13,0.68,10286572,1,0
+28060,Hotel Monceau Wagram,Jaipur,26.9124,75.7873,Entire home/apt,160,3,32,1.64,134428157,7,0
+42373,Novotel London Excel,Chennai,13.0827,80.2707,Private room,239,1,1,0.58,247411073,1,1
+14499,Paris Marriott Champs Elysees Hotel,Mumbai,19.076,72.8777,Entire home/apt,60,3,8,0.36,59913399,1,0
+19074,Mercure London Bridge,Bangalore,12.9716,77.5946,Private room,65,7,2,0.06,37821056,4,1
+18735,H tel Exquis by Elegancia,Pune,18.5204,73.8567,Private room,179,30,0,,22541573,87,1
+45373,Grange Wellington Hotel,Hyderabad,17.385,78.4867,Shared room,250,3,1,1.0,2513252,1,0
+1938,Les Jardins Du Marais,Delhi,28.7041,77.1025,Private room,85,2,35,0.55,2843998,2,1
+14302,Hotel Cavendish,Chennai,13.0827,80.2707,Entire home/apt,90,10,6,0.18,20794193,1,0
+36821,Park Grand London Hyde Park,Delhi,28.7041,77.1025,Entire home/apt,90,3,7,0.95,18917915,1,0
+21115,Shaftesbury Metropolis London Hyde Park,Jaipur,26.9124,75.7873,Private room,190,30,1,0.73,22541573,87,1
+40307,Radisson Blu Champs Elys es Paris,Jaipur,26.9124,75.7873,Entire home/apt,89,2,11,3.03,233521077,1,0
+46365,Hotel Eiffel Blomet,Mumbai,19.076,72.8777,Shared room,110,1,4,4.0,259776956,5,1
+33118,Holiday Inn Paris Gare Montparnasse,Chennai,13.0827,80.2707,Shared room,64,30,5,0.55,190921808,47,1
+366,H tel Thoumieux,Kolkata,22.5726,88.3639,Private room,249,5,166,1.68,251176,2,1
+11961,The Exhibitionist Hotel,Mumbai,19.076,72.8777,Private room,77,2,1,0.07,48372942,1,1
+16049,Auteuil Tour Eiffel,Mumbai,19.076,72.8777,Shared room,58,1,37,0.97,68139551,3,1
+10538,Ten Manchester Street Hotel,Jaipur,26.9124,75.7873,Entire home/apt,65,2,5,0.11,1903737,3,0
+35377,Mercure London Hyde Park,Jaipur,26.9124,75.7873,Entire home/apt,53,4,52,6.5,29953329,2,0
+0,London Bridge Hotel,Lucknow,26.8467,80.9462,Shared room,149,1,9,0.21,2787,6,1
+21227,Derby Alma,Hyderabad,17.385,78.4867,Entire home/apt,100,1,68,2.27,18595156,1,1
+18698,The Beaumont Hotel,Kolkata,22.5726,88.3639,Entire home/apt,160,3,4,0.28,92481239,1,0
+48232,Mercure Paris Gobelins Place d Italie,Pune,18.5204,73.8567,Private room,561,1,0,,266037277,1,1
+34386,H tel Original Paris,Mumbai,19.076,72.8777,Private room,234,30,0,,200380610,65,1
+36484,The Grand at Trafalgar Square,Lucknow,26.8467,80.9462,Private room,35,7,1,0.11,194107668,1,1
+12100,Club Quarters Hotel Trafalgar Square,Jaipur,26.9124,75.7873,Private room,250,53,2,0.05,24530091,1,1
+11339,The Laslett,Lucknow,26.8467,80.9462,Private room,1170,80,0,,30283594,121,1
+25947,Novotel Paris Les Halles,Mumbai,19.076,72.8777,Private room,1700,1,0,,148391880,1,1
+44477,Melia Paris Vendome,Bangalore,12.9716,77.5946,Entire home/apt,100,1,4,2.03,258243498,3,1
+34528,Chambiges Elys es,Delhi,28.7041,77.1025,Private room,300,30,0,,200380610,65,1
+25349,MARQUIS Faubourg St Honor Relais Ch teaux,Chennai,13.0827,80.2707,Entire home/apt,115,5,4,0.18,10217532,1,0
+44273,H tel Le Bellechasse Saint Germain,Chennai,13.0827,80.2707,Private room,225,4,0,,18149022,1,1
+26386,Hotel Verneuil Saint Germain,Pune,18.5204,73.8567,Entire home/apt,196,2,47,2.26,7608106,1,0
+42277,Hotel Daniel Paris,Mumbai,19.076,72.8777,Shared room,69,4,0,,9700935,1,0
+11234,Residence Du Roy,Chennai,13.0827,80.2707,Private room,450,28,0,,43820172,1,1
+37531,La Maison Champs Elys es,Hyderabad,17.385,78.4867,Entire home/apt,43,1,10,1.33,18272280,2,0
+42991,H tel Arvor Saint Georges,Ahmedabad,23.0225,72.5714,Entire home/apt,110,4,5,2.63,251468079,1,0
+28064,The Belgrave Hotel,Hyderabad,17.385,78.4867,Entire home/apt,89,2,52,2.75,48419413,1,0
+35480,TheWesley,Hyderabad,17.385,78.4867,Entire home/apt,120,4,5,0.49,69878814,1,0
+5761,Le M ridien Etoile,Jaipur,26.9124,75.7873,Shared room,50,7,7,0.12,21782731,1,1
+9905,The Hoxton Shoreditch,Hyderabad,17.385,78.4867,Private room,150,3,17,0.37,6684858,1,1
+32169,The Cavendish London,Ahmedabad,23.0225,72.5714,Entire home/apt,150,5,2,0.15,188391102,2,1
+36166,Avo Hotel,Pune,18.5204,73.8567,Entire home/apt,300,4,4,0.44,84720132,1,0
+48050,Hotel 82 London,Jaipur,26.9124,75.7873,Private room,1050,2,0,,63492343,1,1
+40521,La Clef Tour Eiffel,Jaipur,26.9124,75.7873,Entire home/apt,80,3,13,3.45,34399492,1,0
+22951,Best Western Plus Seraphine Hammersmith Hotel,Delhi,28.7041,77.1025,Entire home/apt,200,2,24,0.91,23356363,1,0
+20832,La Chambre du Marais,Hyderabad,17.385,78.4867,Entire home/apt,100,4,48,2.16,13924244,1,0
+683,Novotel Paris Centre Bercy,Hyderabad,17.385,78.4867,Shared room,54,5,56,0.66,1267021,3,1
+36880,The Zetter Hotel,Mumbai,19.076,72.8777,Entire home/apt,150,10,0,,4555996,2,0
+36576,Grosvenor House Suites by Jumeirah Living,Chennai,13.0827,80.2707,Private room,70,7,0,,94214493,9,1
+37069,Hotel OFF Paris Seine,Ahmedabad,23.0225,72.5714,Private room,100,1,4,0.56,167620568,2,1
+26027,Snob Hotel by Elegancia,Jaipur,26.9124,75.7873,Private room,69,2,2,0.1,57049951,9,1
+17284,Sofitel Paris Baltimore Tour Eiffel,Kolkata,22.5726,88.3639,Shared room,89,10,3,0.09,46370904,1,0
+18903,88 Studios,Bangalore,12.9716,77.5946,Shared room,105,1,7,0.21,94782931,1,0
+24272,Adria Boutique Hotel,Delhi,28.7041,77.1025,Private room,499,30,10,0.44,5339759,1,1
+30332,Best Western Premier Faubourg 88,Ahmedabad,23.0225,72.5714,Entire home/apt,80,1,14,0.87,22820185,1,0
+35894,Hotel De Vigny,Ahmedabad,23.0225,72.5714,Entire home/apt,26,1,20,2.07,215183568,1,0
+9580,Sydney House Chelsea,Jaipur,26.9124,75.7873,Entire home/apt,159,7,6,0.19,3484734,1,0
+44944,Radisson Blu Edwardian Bloomsbury Street,Lucknow,26.8467,80.9462,Shared room,100,1,7,4.04,260299060,1,0
+38160,H tel Le Relais Saint Germain,Bangalore,12.9716,77.5946,Entire home/apt,75,1,7,0.93,22694324,1,0
+40310,Hotel Moonlight,Kolkata,22.5726,88.3639,Private room,175,6,2,0.4,233924381,1,1
+46591,Villa Alessandra,Chennai,13.0827,80.2707,Entire home/apt,69,2,3,3.0,266035174,1,0
+44476,Ibis Styles Paris Gare Saint Lazare,Delhi,28.7041,77.1025,Entire home/apt,875,2,0,,125320407,5,1
+20108,Golden Tulip Opera de Noailles,Lucknow,26.8467,80.9462,Private room,799,3,1,0.03,69545883,12,1
+12056,Best Western Premier Op ra Li ge,Delhi,28.7041,77.1025,Private room,200,30,68,1.66,48638439,2,1
+13503,H tel Cristal Champs Elys es,Hyderabad,17.385,78.4867,Entire home/apt,100,2,51,1.19,51850937,3,0
+43291,Best Western Le Jardin de Cluny,Lucknow,26.8467,80.9462,Private room,100,4,25,8.24,54023713,1,0
+19715,Le Pigalle Hotel,Pune,18.5204,73.8567,Shared room,139,1,3,0.12,83627325,4,1
+43894,Relais H tel du Vieux Paris,Mumbai,19.076,72.8777,Entire home/apt,20,1,0,,274333,3,0
+33985,Victoire Germain,Lucknow,26.8467,80.9462,Shared room,113,2,13,5.13,80533986,1,0
+38349,Le Littr ,Pune,18.5204,73.8567,Shared room,200,3,1,0.16,949070,1,0
+34366,Hotel Le Sainte Beuve,Kolkata,22.5726,88.3639,Private room,154,30,0,,200380610,65,1
+10550,Hotel Villa Saxe Eiffel,Chennai,13.0827,80.2707,Private room,130,180,15,0.35,42788707,1,1
+22507,Thistle Hyde Park,Hyderabad,17.385,78.4867,Private room,285,30,0,,2856748,49,1
+35652,Holiday Inn Paris Saint Germain des Pr s,Delhi,28.7041,77.1025,Shared room,99,1,5,0.51,213781715,33,1
+38556,Hotel Spa La Belle Juliette,Jaipur,26.9124,75.7873,Shared room,149,7,1,0.16,28613272,1,0
+24058,Rochester Champs Elysees,Pune,18.5204,73.8567,Private room,450,4,11,0.44,14140453,1,0
+19682,DoubleTree by Hilton London West End,Chennai,13.0827,80.2707,Private room,275,30,2,0.08,30283594,121,1
+37730,Hotel d Orsay Esprit de France,Mumbai,19.076,72.8777,Private room,75,7,4,0.59,190921808,47,1
+48616,Mercure Paris Opera Louvre,Jaipur,26.9124,75.7873,Shared room,400,2,0,,119005168,1,0
+19236,La Villa des Ternes,Jaipur,26.9124,75.7873,Shared room,1000,30,17,0.51,836168,11,1
+37622,Holiday Inn London Kensington Forum,Lucknow,26.8467,80.9462,Shared room,150,7,0,,26310763,1,0
+4377,Radisson Blu Edwardian Kenilworth,Mumbai,19.076,72.8777,Private room,8000,1,1,0.03,1177497,11,1
+41878,H tel Monna Lisa Champs Elys es,Bangalore,12.9716,77.5946,Shared room,35,1,4,1.11,47518086,1,0
+17086,H tel Waldorf Trocad ro,Jaipur,26.9124,75.7873,Entire home/apt,70,6,70,2.12,19163998,1,0
+4236,Best Western Amiral Hotel,Bangalore,12.9716,77.5946,Private room,100,1,1,0.07,10870477,1,1
+43337,Hotel Les Th tres,Delhi,28.7041,77.1025,Entire home/apt,140,2,11,3.93,19407341,1,0
+14755,Mercure Paris 17 me Saint Lazare Monceau,Pune,18.5204,73.8567,Shared room,105,180,10,0.25,49572092,1,0
+40740,Melia White House Hotel,Chennai,13.0827,80.2707,Entire home/apt,200,2,4,0.85,236896088,1,0
+42292,Sir Albert Hotel,Lucknow,26.8467,80.9462,Private room,69,2,3,0.93,246422621,1,0
+19319,The Waldorf Hilton,Chennai,13.0827,80.2707,Private room,90,90,0,,42151184,1,1
+47991,Corendon Vitality Hotel Amsterdam,Ahmedabad,23.0225,72.5714,Shared room,180,3,0,,10117927,1,0
+39726,Hotel Bellevue Wien,Kolkata,22.5726,88.3639,Entire home/apt,90,3,5,0.77,87505316,1,0
+1262,Maison Borella,Jaipur,26.9124,75.7873,Entire home/apt,189,4,33,0.44,1879389,2,0
+44111,Hotel Am Konzerthaus Vienna MGallery by Sofitel,Kolkata,22.5726,88.3639,Private room,60,1,3,1.76,257053267,1,1
+35543,Park Hyatt Vienna,Pune,18.5204,73.8567,Private room,250,1,2,0.2,213111794,4,1
+8477,Hilton Vienna,Mumbai,19.076,72.8777,Entire home/apt,115,3,71,1.43,25865233,1,0
+5459,Catalonia Port,Bangalore,12.9716,77.5946,Private room,95,3,0,,7739416,1,1
+3271,Hampshire Hotel Rembrandt Square Amsterdam,Lucknow,26.8467,80.9462,Entire home/apt,69,2,12,0.18,1294674,1,0
+37059,Eurostars Angli,Delhi,28.7041,77.1025,Entire home/apt,68,2,15,1.76,105386434,3,1
+14894,Pillows Anna van den Vondel Amsterdam,Chennai,13.0827,80.2707,Private room,86,2,4,0.15,62978797,1,1
+36070,Schlosshotel R mischer Kaiser,Lucknow,26.8467,80.9462,Private room,55,35,2,0.3,216235179,17,1
+45981,Hotel Mailberger Hof,Pune,18.5204,73.8567,Entire home/apt,109,1,9,6.0,263777041,1,0
+25386,Best Western Delphi Hotel,Hyderabad,17.385,78.4867,Private room,800,7,0,,1715301,3,1
+6421,Apollofirst Boutique Hotel,Ahmedabad,23.0225,72.5714,Private room,385,3,1,0.02,10476487,1,1
+4986,Hilton Amsterdam,Pune,18.5204,73.8567,Shared room,99,2,8,0.17,3609048,3,1
+18653,Apollo Hotel Amsterdam,Pune,18.5204,73.8567,Entire home/apt,100,2,16,0.47,8048669,1,0
+23159,Catalonia Catedral,Mumbai,19.076,72.8777,Private room,150,30,0,,120762452,50,1
+32673,Element Amsterdam,Pune,18.5204,73.8567,Private room,225,30,0,,2856748,49,1
+39290,Axel Hotel Barcelona Urban Spa Adults Only,Delhi,28.7041,77.1025,Entire home/apt,150,3,6,0.95,2199778,1,0
+23674,Cram,Kolkata,22.5726,88.3639,Private room,30,30,1,0.05,133802988,6,1
+143,Urban Lodge Hotel,Mumbai,19.076,72.8777,Shared room,140,2,1,0.01,140025,1,0
+33127,Novotel Wien City,Ahmedabad,23.0225,72.5714,Private room,60,4,5,0.45,1004883,2,1
+39545,The Levante Parliament A Design Hotel,Mumbai,19.076,72.8777,Private room,250,30,0,,230165497,4,1
+42267,Room Mate Gerard,Delhi,28.7041,77.1025,Shared room,300,2,1,1.0,45364547,1,0
+36356,H10 Marina Barcelona,Bangalore,12.9716,77.5946,Private room,50,2,0,,35927005,10,1
+25111,Barcelona Princess,Delhi,28.7041,77.1025,Private room,120,3,11,0.48,46801421,1,0
+6599,Novotel Barcelona City,Jaipur,26.9124,75.7873,Shared room,50,6,17,0.34,24597265,8,1
+23000,The Gates Diagonal Barcelona,Mumbai,19.076,72.8777,Entire home/apt,130,5,1,0.05,50605761,1,0
+45254,AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,Kolkata,22.5726,88.3639,Private room,44,31,0,,4297106,2,1
+46541,Wilson Boutique Hotel,Bangalore,12.9716,77.5946,Private room,199,1,0,,265812351,1,1
+36340,NH Hesperia Barcelona Presidente,Chennai,13.0827,80.2707,Shared room,175,2,2,0.22,49128620,1,0
+38895,Hilton Barcelona,Kolkata,22.5726,88.3639,Shared room,179,1,18,2.49,224414117,30,1
+42130,Vincci Mae,Chennai,13.0827,80.2707,Private room,350,30,0,,30283594,121,1
+47745,Fairmont Rey Juan Carlos I,Bangalore,12.9716,77.5946,Private room,200,120,0,,269970642,1,1
+28649,Pullman Barcelona Skipper,Chennai,13.0827,80.2707,Private room,90,3,32,1.69,110142237,1,0
+36076,Hotel Ciutadella Barcelona,Kolkata,22.5726,88.3639,Shared room,120,7,4,0.44,190921808,47,1
+26410,Catalonia Atenas,Bangalore,12.9716,77.5946,Entire home/apt,70,4,8,0.37,33167995,1,0
+46557,Tryp Barcelona Apolo Hotel,Delhi,28.7041,77.1025,Private room,95,1,2,2.0,264043510,6,1
+40820,Sansi Pedralbes,Mumbai,19.076,72.8777,Entire home/apt,285,5,9,1.86,237817180,1,0
+37543,Crowne Plaza Barcelona Fira Center,Hyderabad,17.385,78.4867,Private room,75,3,15,2.47,94546995,1,0
+10007,Gran Hotel Torre Catalunya,Delhi,28.7041,77.1025,Entire home/apt,100,1,2,0.05,40404813,1,1
+34471,H10 Itaca,Bangalore,12.9716,77.5946,Entire home/apt,130,2,24,3.27,10849252,1,0
+42104,Hotel Abbot,Delhi,28.7041,77.1025,Entire home/apt,840,1,0,,244746656,4,0
+37168,Sercotel Amister Art Hotel Barcelona,Kolkata,22.5726,88.3639,Shared room,50,30,1,0.45,216235179,17,1
+42479,Melia Barcelona Sarri ,Delhi,28.7041,77.1025,Private room,45,30,0,,248161322,14,1
+31874,ABaC Restaurant Hotel Barcelona GL Monumento,Lucknow,26.8467,80.9462,Entire home/apt,50,1,20,1.64,187908645,4,0
+45459,Col n Hotel Barcelona,Kolkata,22.5726,88.3639,Shared room,65,2,2,1.36,252356839,2,0
+47005,Hotel SB Icaria Barcelona,Ahmedabad,23.0225,72.5714,Shared room,170,5,1,1.0,65346107,1,0
+29418,Hotel Barcelona Universal,Delhi,28.7041,77.1025,Entire home/apt,94,1,65,3.68,63343926,1,0
+12898,Aparthotel Arai 4 Superior,Mumbai,19.076,72.8777,Private room,80,1,28,0.72,50588394,1,1
+29211,NH Collection Barcelona Podium,Delhi,28.7041,77.1025,Entire home/apt,499,14,23,1.27,3231509,4,0
+36744,Hotel Ronda Lesseps,Bangalore,12.9716,77.5946,Private room,75,3,6,0.74,220060177,2,1
+42345,Hotel Barcelona Center,Pune,18.5204,73.8567,Private room,300,5,1,0.42,10283936,1,0
+24595,Olivia Balmes Hotel,Delhi,28.7041,77.1025,Private room,180,2,15,0.64,3019399,1,0
+1551,Catalonia Diagonal Centro,Delhi,28.7041,77.1025,Private room,150,3,32,0.42,240471,2,1
+44096,The Capital,Jaipur,26.9124,75.7873,Private room,550,1,0,,256998898,3,1
+4537,Vienna Sporthotel,Kolkata,22.5726,88.3639,Private room,500,1,28,0.71,3323488,2,1
+9080,Megaro Hotel,Mumbai,19.076,72.8777,Shared room,150,3,2,0.05,19228782,1,0
+23773,Hotel De Hallen,Mumbai,19.076,72.8777,Shared room,26,31,5,0.22,134293540,4,1
+40197,AC Hotel Victoria Suites a Marriott Lifestyle Hotel,Mumbai,19.076,72.8777,Private room,100,30,9,1.42,107578852,2,1
+44496,Catalonia Plaza Catalunya,Bangalore,12.9716,77.5946,Entire home/apt,45,3,3,2.05,195863013,1,0
+38823,Hotel Regina,Mumbai,19.076,72.8777,Private room,90,1,0,,228253636,1,1
+26659,Hotel Pulitzer,Bangalore,12.9716,77.5946,Private room,150,30,1,0.05,120762452,50,1
+34314,Hotel Alimara,Pune,18.5204,73.8567,Shared room,45,31,1,0.1,23619449,1,0
+32645,Thistle Holborn The Kingsley,Jaipur,26.9124,75.7873,Entire home/apt,295,3,11,0.87,9038810,1,0
+9295,Hotel Boltzmann,Bangalore,12.9716,77.5946,Private room,160,200,0,,2252859,1,1
+17014,The Westbury A Luxury Collection Hotel Mayfair London,Bangalore,12.9716,77.5946,Entire home/apt,67,4,11,0.3,24222,2,0
+45637,Petit Palace Boqueria Garden,Bangalore,12.9716,77.5946,Private room,125,14,0,,34655986,1,1
+42389,Mercer House B ria BCN,Chennai,13.0827,80.2707,Private room,300,3,0,,75064270,2,1
+4781,Hotel ViennArt am Museumsquartier,Lucknow,26.8467,80.9462,Shared room,300,30,3,0.05,15310997,9,1
+12003,Crowne Plaza London Battersea,Hyderabad,17.385,78.4867,Entire home/apt,161,2,21,0.48,3311487,3,0
+13725,Amba Hotel Marble Arch,Bangalore,12.9716,77.5946,Shared room,99,1,176,4.14,33213436,8,1
+46592,Taj 51 Buckingham Gate Suites and Residences,Chennai,13.0827,80.2707,Private room,90,1,1,1.0,264043510,6,1
+18104,Hotel Sans Souci Wien,Lucknow,26.8467,80.9462,Private room,50,1,39,1.11,2584371,1,0
+3626,Catalonia La Pedrera,Ahmedabad,23.0225,72.5714,Private room,100,7,14,0.24,11079245,1,1
+569,Ohla Eixample,Kolkata,22.5726,88.3639,Shared room,40,1,1,0.37,293130,1,0
+48019,Jumeirah Carlton Tower,Kolkata,22.5726,88.3639,Shared room,209,3,0,,4239407,2,0
+2183,Hotel Villa Emilia,Kolkata,22.5726,88.3639,Private room,75,5,8,0.11,4937803,1,1
+23979,TWO Hotel Barcelona by Axel 4 Sup Adults Only,Chennai,13.0827,80.2707,Private room,80,1,5,0.22,134808051,1,1
+24381,Hotel Best Western PLUS Alfa Aeropuerto,Bangalore,12.9716,77.5946,Entire home/apt,43,4,4,0.34,138052282,1,0
+26042,AC Hotel Irla a Marriott Lifestyle Hotel,Lucknow,26.8467,80.9462,Entire home/apt,49,2,71,3.22,30536963,1,0
+44318,Hotel Barcelona Catedral,Ahmedabad,23.0225,72.5714,Shared room,168,3,2,1.13,78261482,2,0
+25695,Arenas Atiram Hotels,Delhi,28.7041,77.1025,Private room,70,31,0,,66798529,1,1
+45337,Holiday Inn London Regent s Park,Ahmedabad,23.0225,72.5714,Private room,349,2,1,0.58,220762164,4,1
+18432,Senator Barcelona Spa Hotel,Chennai,13.0827,80.2707,Private room,100,20,0,,34264721,1,1
+34968,Thistle Euston,Mumbai,19.076,72.8777,Shared room,65,30,30,2.84,24762401,4,1
+16401,The Connaught,Hyderabad,17.385,78.4867,Private room,199,30,2,0.06,22541573,87,1
+29549,Room Mate Anna,Hyderabad,17.385,78.4867,Private room,170,30,0,,165898555,7,1
+35085,Gran Hotel La Florida,Lucknow,26.8467,80.9462,Shared room,140,1,31,3.01,152246149,5,1
+6806,Ayre Hotel Caspe,Pune,18.5204,73.8567,Private room,70,2,6,0.12,1968327,1,1
+38642,Doubletree By Hilton London Greenwich,Delhi,28.7041,77.1025,Entire home/apt,45,2,11,1.73,218336964,4,0
+9705,Chasse Hotel,Hyderabad,17.385,78.4867,Entire home/apt,95,1,119,2.57,12738054,2,0
+31827,The Chelsea Harbour Hotel,Hyderabad,17.385,78.4867,Private room,48,3,15,1.18,156716488,2,1
+17811,Palais Coburg Residenz,Pune,18.5204,73.8567,Private room,2350,365,0,,41870118,1,1
+4640,Zenit Borrell,Lucknow,26.8467,80.9462,Private room,158,30,1,0.14,16437254,21,1
+36420,U232 Hotel,Kolkata,22.5726,88.3639,Shared room,63,30,16,1.8,23188519,6,1
+2467,Eurostars Monumental,Hyderabad,17.385,78.4867,Entire home/apt,125,1,153,2.21,6781477,1,0
+47511,Pestana Arena Barcelona,Ahmedabad,23.0225,72.5714,Shared room,46,1,0,,221012726,1,0
+22413,Grange City Hotel,Ahmedabad,23.0225,72.5714,Private room,270,30,0,,22541573,87,1
+42665,Holiday Inn London Bloomsbury,Kolkata,22.5726,88.3639,Entire home/apt,55,2,37,10.37,42540127,1,0
+1553,The Mirror Barcelona,Pune,18.5204,73.8567,Private room,900,1,7,0.09,3606458,2,1
+18224,Worldhotel Cristoforo Colombo,Pune,18.5204,73.8567,Shared room,150,2,3,0.08,84810879,3,1
+46053,IH Hotels Milano Puccini,Delhi,28.7041,77.1025,Private room,140,1,0,,263994272,3,1
+12458,Best Western Hotel City,Ahmedabad,23.0225,72.5714,Shared room,450,3,12,0.28,49645950,2,0
+37313,Ch teau Monfort Relais Ch teaux,Chennai,13.0827,80.2707,Entire home/apt,189,1,7,0.86,23954256,1,0
+35583,Palazzo Parigi Hotel Grand Spa Milano,Delhi,28.7041,77.1025,Entire home/apt,75,2,11,1.24,73640551,2,0
+36131,Hotel Lloyd,Ahmedabad,23.0225,72.5714,Shared room,31,5,7,0.78,213208277,8,1
+19684,Hotel Romana Residence,Bangalore,12.9716,77.5946,Private room,1500,2,4,0.12,46990279,1,1
+35998,Hotel Crivi s,Chennai,13.0827,80.2707,Shared room,39,1,13,1.33,119669058,34,1
+18166,Hotel Galileo,Hyderabad,17.385,78.4867,Private room,379,20,0,,10388850,1,1
+38555,Carlyle Brera Hotel,Delhi,28.7041,77.1025,Shared room,100,2,1,0.16,91427536,2,0
+44391,Boscolo Milano Autograph Collection,Bangalore,12.9716,77.5946,Private room,199,1,0,,252604696,20,1
+29700,Mokinba Hotels King,Jaipur,26.9124,75.7873,Private room,175,3,0,,168613171,1,1
+2110,Qualys Hotel Nasco,Chennai,13.0827,80.2707,Shared room,89,1,21,0.3,1865527,3,1
+15530,Enterprise Hotel Design Boutique,Mumbai,19.076,72.8777,Entire home/apt,155,5,12,0.31,5206786,1,0
+16393,Tryp Barcelona Condal Mar Hotel,Hyderabad,17.385,78.4867,Entire home/apt,154,2,23,0.62,988088,1,0
+44433,NH Collection Barcelona Constanza,Lucknow,26.8467,80.9462,Private room,335,2,1,1.0,831185,3,1
+1605,NH Collection Amsterdam Grand Hotel Krasnapolsky,Kolkata,22.5726,88.3639,Private room,80,1,135,1.67,3779334,1,1
+16922,Park Plaza Victoria Amsterdam,Lucknow,26.8467,80.9462,Private room,150,1,0,,31376201,3,1
+1607,Hotel Amsterdam De Roode Leeuw,Hyderabad,17.385,78.4867,Private room,70,1,139,1.7,3787686,1,1
+43021,Swiss tel Amsterdam,Lucknow,26.8467,80.9462,Private room,169,7,0,,5144567,13,1
+30901,City Rooms,Mumbai,19.076,72.8777,Private room,100,1,3,0.22,5371388,1,0
+47948,Holiday Inn Amsterdam,Ahmedabad,23.0225,72.5714,Shared room,50,2,1,1.0,259683021,1,0
+1287,Jaz Amsterdam,Delhi,28.7041,77.1025,Private room,152,2,23,0.27,2647043,1,1
+44236,Best Western Premier Hotel Couture,Mumbai,19.076,72.8777,Shared room,50,1,5,2.34,123506305,3,1
+40780,Mercer Hotel Barcelona,Lucknow,26.8467,80.9462,Shared room,150,1,1,0.21,108150300,2,0
+2230,Mercure Vienna First,Delhi,28.7041,77.1025,Private room,350,3,7,0.1,4128399,1,1
+31892,Melia Barcelona Sky 4 Sup,Pune,18.5204,73.8567,Entire home/apt,120,2,16,1.51,188169807,1,0
+10440,Bilderberg Garden Hotel,Pune,18.5204,73.8567,Private room,170,3,36,0.77,3318161,1,0
+36560,Ako Suites Hotel,Pune,18.5204,73.8567,Entire home/apt,78,1,10,2.17,219012245,1,0
+19284,Eurostars Cristal Palace,Mumbai,19.076,72.8777,Entire home/apt,78,1,73,2.18,51007432,1,0
+12068,HCC St Moritz,Chennai,13.0827,80.2707,Private room,285,31,5,0.12,13838573,1,1
+46118,Petit Palace Museum,Bangalore,12.9716,77.5946,Private room,50,1,0,,218259081,1,1
+20889,NH Amsterdam Noord,Kolkata,22.5726,88.3639,Private room,895,2,0,,2677753,1,1
+8744,Primero Primera,Mumbai,19.076,72.8777,Private room,450,2,2,0.04,35149173,1,1
+44716,Hotel 4 Barcelona,Mumbai,19.076,72.8777,Private room,115,3,0,,4852748,6,1
+14495,Melia Vienna,Delhi,28.7041,77.1025,Entire home/apt,160,2,205,5.08,59922151,1,0
+7637,Graben Hotel,Jaipur,26.9124,75.7873,Entire home/apt,96,21,14,1.38,24911518,1,0
+2318,Medinaceli,Ahmedabad,23.0225,72.5714,Shared room,70,28,16,0.22,6165258,3,1
+35563,Grand Hotel Downtown,Pune,18.5204,73.8567,Shared room,60,5,5,0.53,213208277,8,1
+4715,Amadi Park Hotel,Kolkata,22.5726,88.3639,Entire home/apt,65,1,0,,1498951,1,0
+19782,Hotel Casa Camper,Mumbai,19.076,72.8777,Entire home/apt,150,3,36,1.13,99602138,1,0
+18453,Holiday Inn London Wembley,Delhi,28.7041,77.1025,Entire home/apt,200,2,22,0.64,25760832,1,0
+36704,Austria Trend Hotel Lassalle Wien,Delhi,28.7041,77.1025,Entire home/apt,65,1,10,1.13,31760835,4,0
+2038,H10 Art Gallery 4 Sup,Lucknow,26.8467,80.9462,Private room,100,30,0,,4599027,2,1
+14429,Hotel Granados 83,Bangalore,12.9716,77.5946,Private room,65,2,4,0.1,47625541,2,0
+40957,Best Western PLUS Epping Forest,Chennai,13.0827,80.2707,Shared room,30,4,2,0.81,7261749,1,0
+32993,NH Hesperia Barcelona del Mar,Pune,18.5204,73.8567,Entire home/apt,200,1,15,1.42,7193111,1,0
+15934,Novotel Amsterdam City,Hyderabad,17.385,78.4867,Entire home/apt,70,2,21,0.54,17204066,1,0
+25802,St Pancras Renaissance Hotel London,Bangalore,12.9716,77.5946,Private room,229,30,0,,76104209,33,1
+750,DoubleTree By Hilton London Excel,Hyderabad,17.385,78.4867,Private room,75,2,5,0.06,1315849,2,1
+20728,The Guesthouse Vienna,Ahmedabad,23.0225,72.5714,Entire home/apt,180,3,49,1.58,83185960,1,0
+8299,Hotel Johann Strauss,Ahmedabad,23.0225,72.5714,Private room,200,30,8,0.16,1245695,1,1
+42411,Hotel Mercure Wien Westbahnhof,Ahmedabad,23.0225,72.5714,Shared room,199,1,1,0.26,247649713,1,0
+2903,Savoy Hotel Amsterdam,Lucknow,26.8467,80.9462,Entire home/apt,275,2,6,0.51,1253125,1,0
+9135,Hotel Okura Amsterdam,Chennai,13.0827,80.2707,Entire home/apt,50,30,2,0.04,18260299,6,0
+13355,Hotel Eitlj rg,Delhi,28.7041,77.1025,Entire home/apt,200,3,28,0.65,39945901,1,0
+6288,Hotel V Fizeaustraat,Delhi,28.7041,77.1025,Entire home/apt,69,1,40,0.83,5050537,1,0
+42001,Mercure Wien Zentrum,Chennai,13.0827,80.2707,Shared room,150,2,0,,2603586,1,0
+30063,Best Western Premier Kaiserhof Wien,Chennai,13.0827,80.2707,Entire home/apt,180,3,31,1.98,171939378,2,0
+8721,FourSide Hotel Suites Vienna,Delhi,28.7041,77.1025,Shared room,180,3,2,0.76,4316973,1,0
+48231,Millennium Copthorne Hotels at Chelsea Football Club,Pune,18.5204,73.8567,Shared room,70,2,0,,40984551,1,0
+13886,IH Hotels Milano Ambasciatori,Hyderabad,17.385,78.4867,Private room,350,365,0,,3710888,1,1
+28369,Crowne Plaza Amsterdam South,Bangalore,12.9716,77.5946,Shared room,120,6,0,,77181668,1,0
+10530,Durrants Hotel,Kolkata,22.5726,88.3639,Private room,203,30,0,,30283594,121,1
+22275,Mercure Secession Wien,Delhi,28.7041,77.1025,Entire home/apt,57,1,1,0.17,119523037,4,0
+39178,Hotel Well and Come,Lucknow,26.8467,80.9462,Shared room,90,3,2,2.0,1313385,1,0
+18157,City Hotel Deutschmeister,Bangalore,12.9716,77.5946,Private room,70,3,23,0.66,75480489,1,1
+36881,Ayre Hotel Gran V a,Chennai,13.0827,80.2707,Entire home/apt,130,2,5,2.34,1601321,1,0
+16201,Sunotel Central,Lucknow,26.8467,80.9462,Shared room,60,2,59,1.56,3389514,1,0
+5354,Silken Gran Hotel Havana,Hyderabad,17.385,78.4867,Shared room,87,30,5,0.1,1475015,52,1
+11754,Cotton House Hotel Autograph Collection,Bangalore,12.9716,77.5946,Entire home/apt,74,2,6,0.13,47594947,1,0
+35281,Hotel Vueling Bcn by HC,Ahmedabad,23.0225,72.5714,Private room,90,4,6,0.56,28190490,1,0
+41894,H10 Casanova,Jaipur,26.9124,75.7873,Entire home/apt,150,2,6,1.5,224666178,1,0
+9409,Avenida Palace,Ahmedabad,23.0225,72.5714,Private room,59,3,4,0.09,3415,1,1
+45631,Acta Atrium Palace,Chennai,13.0827,80.2707,Private room,440,2,1,0.61,184506477,1,0
+39917,Hotel Indigo Barcelona Plaza Catalunya,Hyderabad,17.385,78.4867,Entire home/apt,99,3,6,1.02,90818631,1,0
+7084,Catalonia Passeig de Gr cia 4 Sup,Jaipur,26.9124,75.7873,Private room,90,3,0,,2638171,1,1
+36577,Hotel Palace GL,Delhi,28.7041,77.1025,Entire home/apt,70,1,5,0.82,190324721,4,0
+19339,Grupotel Gran Via 678,Kolkata,22.5726,88.3639,Private room,100,3,24,0.72,2000143,1,0
+26872,Hotel Casa Bonay,Ahmedabad,23.0225,72.5714,Private room,80,3,1,0.05,148237535,4,1
+25063,The Cumberland A Guoman Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,200,1,25,1.07,10595388,1,0
+36616,FourSide Hotel Vienna City Center,Bangalore,12.9716,77.5946,Private room,250,1,4,0.44,67186748,1,1
+36056,Hotel Vienna,Mumbai,19.076,72.8777,Entire home/apt,95,2,32,3.38,20990306,2,0
+42050,London Marriott Hotel Grosvenor Square,Bangalore,12.9716,77.5946,Entire home/apt,102,3,7,1.72,8960858,1,0
+44799,Rainers Hotel Vienna,Jaipur,26.9124,75.7873,Shared room,78,3,0,,17622034,1,0
+37283,Pol Grace Hotel,Bangalore,12.9716,77.5946,Entire home/apt,150,5,5,0.68,29746291,1,0
+9091,Austria Trend Hotel Bosei Wien,Lucknow,26.8467,80.9462,Entire home/apt,61,2,29,0.59,12906455,1,0
+43235,Pertschy Palais Hotel,Pune,18.5204,73.8567,Shared room,210,2,0,,243489234,1,0
+31422,Alma Boutique Hotel,Bangalore,12.9716,77.5946,Private room,100,3,14,0.98,111938058,1,1
+47531,Flemings Mayfair,Chennai,13.0827,80.2707,Private room,130,1,0,,106798652,2,1
+43604,Hilton London Green Park,Lucknow,26.8467,80.9462,Entire home/apt,70,1,5,1.76,51614766,1,1
+42129,COMO The Halkin,Pune,18.5204,73.8567,Private room,350,30,0,,30283594,121,1
+46795,Four Seasons Hotel London at Park Lane,Delhi,28.7041,77.1025,Private room,88,30,0,,266726110,7,1
+30348,Hilton Vienna Danube Waterfront,Kolkata,22.5726,88.3639,Private room,80,4,1,0.06,9241743,1,1
+20254,Hotel 55,Pune,18.5204,73.8567,Entire home/apt,77,2,51,3.1,67523,1,0
+16911,The Harmonie Vienna,Pune,18.5204,73.8567,Private room,79,99,0,,18655157,3,1
+35907,Hotel Park Villa,Ahmedabad,23.0225,72.5714,Entire home/apt,180,3,4,0.53,127250744,1,0
+15261,WestCord Fashion Hotel Amsterdam,Mumbai,19.076,72.8777,Entire home/apt,60,5,16,0.41,65217454,1,0
+33655,The Hoxton Amsterdam,Bangalore,12.9716,77.5946,Entire home/apt,44,5,3,0.25,19704368,1,0
+6103,Ambassade Hotel,Bangalore,12.9716,77.5946,Entire home/apt,80,2,108,1.93,10304755,2,0
+39391,Banks Mansion All Inclusive Hotel,Delhi,28.7041,77.1025,Entire home/apt,60,2,4,2.55,191324,2,0
+5873,Waldorf Astoria Amsterdam,Delhi,28.7041,77.1025,Shared room,80,2,100,1.73,20243795,3,1
+28952,Senator Hotel Vienna,Jaipur,26.9124,75.7873,Private room,1046,1,10,0.54,157757066,1,1
+45062,Hotel J ger,Delhi,28.7041,77.1025,Private room,340,30,0,,236572440,2,1
+39912,Steigenberger Hotel Herrenhof,Delhi,28.7041,77.1025,Entire home/apt,1999,1,0,,26556695,6,1
+18013,Radisson Blu Style Hotel Vienna,Ahmedabad,23.0225,72.5714,Shared room,179,2,16,0.45,67252331,1,0
+5117,Hilton Garden Inn Vienna South,Bangalore,12.9716,77.5946,Private room,250,2,0,,378737,1,1
+45239,Austria Trend Parkhotel Sch nbrunn Wien,Jaipur,26.9124,75.7873,Shared room,35,7,2,1.4,24482415,1,0
+2393,Club Hotel Cortina,Lucknow,26.8467,80.9462,Private room,80,1,66,0.89,6444977,1,1
+3866,Arion Cityhotel Vienna und Appartements,Chennai,13.0827,80.2707,Private room,500,1,11,0.19,5535265,1,1
+44442,NH Amsterdam Museum Quarter,Pune,18.5204,73.8567,Private room,20,1,0,,27537930,1,0
+6960,Gartenhotel Altmannsdorf Hotel 1,Chennai,13.0827,80.2707,Entire home/apt,549,4,17,0.33,25720293,3,0
+20344,Hilton London Kensington Hotel,Mumbai,19.076,72.8777,Shared room,50,8,1,0.16,40230231,1,0
+23506,Hotel Mercure Wien City,Jaipur,26.9124,75.7873,Private room,52,1,13,0.53,44547688,2,1
+37315,Courtyard by Marriott Amsterdam Arena Atlas,Delhi,28.7041,77.1025,Entire home/apt,120,1,30,3.66,219720888,1,0
+20214,Holiday Inn Amsterdam Arena Towers,Jaipur,26.9124,75.7873,Entire home/apt,72,1,15,3.13,105572605,1,0
+37664,The Lanesborough,Kolkata,22.5726,88.3639,Entire home/apt,100,2,21,2.75,224575394,1,0
+24319,Amadi Panorama Hotel,Mumbai,19.076,72.8777,Shared room,50,1,0,,9864136,26,1
+1582,Room Mate Aitana,Lucknow,26.8467,80.9462,Private room,79,3,19,0.3,3715319,1,1
+26662,DoubleTree by Hilton London Chelsea,Ahmedabad,23.0225,72.5714,Private room,195,30,0,,120762452,50,1
+26892,Hotel G tico,Kolkata,22.5726,88.3639,Private room,135,1,0,,134184451,18,1
+16302,Hotel JL No76,Jaipur,26.9124,75.7873,Entire home/apt,59,2,177,4.74,2689908,1,0
+5413,Bilderberg Hotel Jan Luyken,Chennai,13.0827,80.2707,Private room,150,3,50,0.85,2045335,1,1
+29434,Gran Hotel Barcino,Pune,18.5204,73.8567,Shared room,490,14,14,0.81,3231509,4,1
+15867,Aparthotel Atenea Barcelona,Ahmedabad,23.0225,72.5714,Private room,225,30,1,0.05,22541573,87,1
+31791,Mercure Hotel Amsterdam City South,Jaipur,26.9124,75.7873,Private room,210,30,1,0.08,120762452,50,1
+22728,Am Spiegeln,Chennai,13.0827,80.2707,Private room,99,1,1,0.08,2845,2,1
+35109,Hotel Gallitzinberg,Hyderabad,17.385,78.4867,Entire home/apt,51,7,3,1.0,210218941,1,0
+41354,InterContinental Wien,Mumbai,19.076,72.8777,Private room,69,2,1,0.39,57049951,9,1
+27320,Dutch Design Hotel Artemis,Ahmedabad,23.0225,72.5714,Entire home/apt,133,30,2,0.11,61391963,91,0
+27089,Mercure Josefshof Wien,Ahmedabad,23.0225,72.5714,Shared room,143,3,18,0.89,382836,4,1
+37391,Fleming s Selection Hotel Wien City,Delhi,28.7041,77.1025,Shared room,298,2,12,1.51,220762164,4,1
+22051,Cordial Theaterhotel Wien,Chennai,13.0827,80.2707,Entire home/apt,50,1,1,0.05,119523037,4,0
+47490,Vincci Bit,Lucknow,26.8467,80.9462,Shared room,140,3,1,1.0,2448443,1,0
+28353,Hollmann Beletage Design Boutique,Chennai,13.0827,80.2707,Shared room,200,2,1,1.0,338921,1,0
+2618,Hotel Bristol A Luxury Collection Hotel,Delhi,28.7041,77.1025,Private room,800,1,2,0.03,176903,2,1
+2990,Hotel Imperial A Luxury Collection Hotel,Hyderabad,17.385,78.4867,Private room,100,3,4,0.07,8783166,2,1
+37965,The Ring Vienna s Casual Luxury Hotel,Jaipur,26.9124,75.7873,Shared room,350,3,3,0.48,35422741,1,0
+21601,Grand Hotel Wien,Bangalore,12.9716,77.5946,Entire home/apt,170,4,8,0.29,31857792,1,0
+38538,Hotel Ambassador,Chennai,13.0827,80.2707,Private room,85,30,0,,22641060,1,1
+6987,Austria Trend Hotel Astoria Wien,Mumbai,19.076,72.8777,Private room,1000,7,0,,25870353,1,1
+43508,Austria Trend Hotel Europa Wien,Delhi,28.7041,77.1025,Shared room,130,14,0,,17844480,1,0
+1540,Hotel Schani Wien,Lucknow,26.8467,80.9462,Entire home/apt,85,4,239,2.89,3577509,2,0
+46582,Ozo Hotel,Lucknow,26.8467,80.9462,Shared room,185,3,1,1.0,45378115,1,0
+24661,Renaissance Amsterdam Hotel,Chennai,13.0827,80.2707,Private room,37,1,18,0.75,32446721,6,1
+30922,Canal House,Delhi,28.7041,77.1025,Shared room,49,2,2,0.15,30021975,1,0
+2599,The Toren,Delhi,28.7041,77.1025,Private room,280,2,7,0.11,7341851,1,1
+43062,The Dylan Amsterdam,Jaipur,26.9124,75.7873,Private room,800,1,1,0.59,148108,2,1
+43172,Great Northern Hotel A Tribute Portfolio Hotel London,Hyderabad,17.385,78.4867,Shared room,173,5,2,0.76,13442714,2,0
+26744,De Vere Devonport House,Delhi,28.7041,77.1025,Private room,65,3,3,0.16,128895953,1,1
+7924,K K Hotel Maria Theresia,Lucknow,26.8467,80.9462,Private room,100,2,49,0.96,31545214,1,1
+14572,Small Luxury Hotel Altstadt Vienna,Hyderabad,17.385,78.4867,Entire home/apt,135,30,26,0.64,51646459,1,1
+8818,Der Wilhelmshof,Jaipur,26.9124,75.7873,Private room,86,4,28,0.59,35417042,1,1
+47742,Park Plaza Vondelpark Amsterdam,Hyderabad,17.385,78.4867,Shared room,80,1,0,,193256713,1,0
+40160,Hotel Bagu s,Hyderabad,17.385,78.4867,Entire home/apt,250,2,20,3.17,50241946,1,0
+34036,Hotel 1898,Hyderabad,17.385,78.4867,Private room,750,1,12,1.2,202873307,1,1
+9883,Hotel Serhs Rivoli Rambla,Delhi,28.7041,77.1025,Private room,1500,1,0,,8617411,1,1
+7333,Eurostars Ramblas,Kolkata,22.5726,88.3639,Shared room,134,3,139,2.66,17062221,2,0
+25451,Hilton London Wembley,Kolkata,22.5726,88.3639,Private room,45,3,7,0.31,145214508,2,1
+25913,Corus Hotel Hyde Park,Ahmedabad,23.0225,72.5714,Private room,216,30,0,,76104209,33,1
+23383,London Elizabeth Hotel,Kolkata,22.5726,88.3639,Private room,75,1,1,0.46,57230304,3,1
+25674,Lancaster London,Ahmedabad,23.0225,72.5714,Entire home/apt,50,4,20,0.9,59432400,2,0
+19073,Hotel Daniel Vienna,Ahmedabad,23.0225,72.5714,Shared room,699,3,4,0.12,96098402,12,1
+35075,Eurostars Embassy,Delhi,28.7041,77.1025,Shared room,65,1,23,2.18,152246149,5,1
+47009,BEST WESTERN PLUS Amedia Wien,Lucknow,26.8467,80.9462,Shared room,175,2,0,,4602926,1,0
+33227,Mercure Grand Hotel Biedermeier Wien,Bangalore,12.9716,77.5946,Entire home/apt,60,14,3,0.3,6141162,1,0
+3276,Hotel Rathaus Wein Design,Bangalore,12.9716,77.5946,Entire home/apt,195,4,30,0.45,10103520,1,0
+2306,NH Collection Milano President,Chennai,13.0827,80.2707,Entire home/apt,150,2,21,0.29,265152,3,0
+12134,Hotel Dieci,Hyderabad,17.385,78.4867,Private room,210,1,0,,17764174,1,1
+21107,Royal Ramblas,Delhi,28.7041,77.1025,Entire home/apt,100,1,65,2.16,47716416,1,0
+1555,Best Western Blue Tower Hotel,Delhi,28.7041,77.1025,Shared room,70,5,18,0.22,1785800,3,1
+39084,Hampshire Hotel Amsterdam American,Bangalore,12.9716,77.5946,Entire home/apt,100,2,0,,11377906,1,0
+32279,Ilunion Bel Art,Lucknow,26.8467,80.9462,Entire home/apt,260,4,2,0.18,849248,1,0
+32349,25hours Hotel beim MuseumsQuartier,Bangalore,12.9716,77.5946,Entire home/apt,61,2,3,1.84,179661186,2,0
+26477,Hotel Topazz,Lucknow,26.8467,80.9462,Private room,222,30,2,0.15,120762452,50,1
+28788,Hampshire Hotel The Manor Amsterdam,Jaipur,26.9124,75.7873,Entire home/apt,90,2,13,0.7,145993199,1,0
+4416,Hotel Kavalier,Pune,18.5204,73.8567,Private room,130,30,2,0.03,1475015,52,1
+27439,Ofelias Hotel 4 Sup,Hyderabad,17.385,78.4867,Private room,55,30,0,,93392260,2,1
+29855,Vincci Maritimo,Ahmedabad,23.0225,72.5714,Entire home/apt,299,2,0,,169541552,1,0
+31649,London Marriott Hotel County Hall,Jaipur,26.9124,75.7873,Entire home/apt,89,1,0,,25479861,1,1
+2698,The Level at Melia Barcelona Sky,Ahmedabad,23.0225,72.5714,Private room,5000,1,2,0.03,213266,1,1
+12234,Eurohotel Diagonal Port,Mumbai,19.076,72.8777,Shared room,180,2,51,4.77,49115124,1,0
+4282,Hotel Derby,Jaipur,26.9124,75.7873,Private room,299,1,0,,14518375,1,1
+38114,Hotel Gran Derby Suites,Jaipur,26.9124,75.7873,Entire home/apt,100,1,24,3.09,10842596,1,0
+19608,Jumeirah Lowndes Hotel,Chennai,13.0827,80.2707,Entire home/apt,100,2,17,0.52,34061867,1,0
+707,Catalonia Magdalenes,Chennai,13.0827,80.2707,Private room,130,3,18,0.25,696482,1,0
+11797,Expo Hotel Barcelona,Delhi,28.7041,77.1025,Entire home/apt,180,4,13,0.35,10621862,1,0
+18422,The Corner Hotel,Ahmedabad,23.0225,72.5714,Private room,55,1,0,,2261995,3,1
+16419,Best Western Premier Hotel Dante,Mumbai,19.076,72.8777,Shared room,85,1,44,1.26,73737053,3,1
+33946,Hotel Balmes,Ahmedabad,23.0225,72.5714,Private room,109,30,43,3.72,141204556,2,1
+32258,Alexandra Barcelona A DoubleTree by Hilton,Delhi,28.7041,77.1025,Private room,359,2,0,,2631556,1,1
+44945,Alma Barcelona GL,Chennai,13.0827,80.2707,Private room,100,1,0,,260425153,14,1
+3193,Room Mate Carla,Kolkata,22.5726,88.3639,Private room,228,1,2,0.22,4358024,2,1
+30683,The Mandeville Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,300,1,70,4.63,124357,3,0
+37179,Hallmark Hotel London Chigwell Prince Regent,Delhi,28.7041,77.1025,Private room,1700,23,0,,29387678,1,1
+31542,Upper Diagonal,Hyderabad,17.385,78.4867,Entire home/apt,205,4,15,1.04,607217,1,0
+19242,Falkensteiner Hotel Wien Margareten,Mumbai,19.076,72.8777,Shared room,269,3,8,0.24,96098402,12,1
+6671,Holiday Inn Vienna City,Lucknow,26.8467,80.9462,Shared room,95,30,37,0.68,9864136,26,1
+4731,pentahotel Vienna,Delhi,28.7041,77.1025,Entire home/apt,160,4,11,0.18,15689833,1,0
+31382,IntercityHotel Wien,Mumbai,19.076,72.8777,Entire home/apt,180,30,16,1.08,184065290,1,0
+2477,Boutiquehotel Das Tyrol,Lucknow,26.8467,80.9462,Private room,147,7,42,0.61,1537501,1,1
+17975,NH Wien City,Kolkata,22.5726,88.3639,Private room,51,3,0,,51826974,2,1
+20813,Hotel Corvinus,Ahmedabad,23.0225,72.5714,Private room,200,30,0,,22541573,87,1
+718,NH Collection Wien Zentrum,Ahmedabad,23.0225,72.5714,Shared room,155,1,1,0.18,1381171,1,0
+24652,Aparthotel Mariano Cubi Barcelona,Jaipur,26.9124,75.7873,Entire home/apt,100,3,12,0.5,18197578,1,0
+4892,Hotel Arts Barcelona,Lucknow,26.8467,80.9462,Private room,100,2,2,0.03,17618198,1,1
+29222,Leonardo Hotel Vienna,Kolkata,22.5726,88.3639,Shared room,129,1,47,2.8,164291123,3,1
+9718,JUFA Hotel Wien,Mumbai,19.076,72.8777,Private room,400,7,9,0.2,39143718,2,1
+43790,Golden Tulip Amsterdam West,Lucknow,26.8467,80.9462,Shared room,99,1,20,10.17,2640420,1,0
+13830,Eurostars Grand Marina Hotel GL,Kolkata,22.5726,88.3639,Private room,55,1,2,0.06,299236,1,1
+47943,Pakat Suites Hotel,Pune,18.5204,73.8567,Private room,300,3,0,,9484127,1,1
+47663,Guitart Grand Passage,Lucknow,26.8467,80.9462,Shared room,119,3,0,,269718824,1,0
+1358,Hotel Rekord,Kolkata,22.5726,88.3639,Private room,60,30,36,0.44,2943157,1,1
+34000,Catalonia Barcelona 505,Bangalore,12.9716,77.5946,Private room,208,1,0,,198933477,1,1
+38209,Mercure Amsterdam Sloterdijk Station,Ahmedabad,23.0225,72.5714,Shared room,66,5,0,,33529908,1,0
+11083,DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,Bangalore,12.9716,77.5946,Private room,100,1,36,2.52,45093051,2,1
+21477,Hotel V Nesplein,Ahmedabad,23.0225,72.5714,Shared room,160,45,6,0.63,39890192,12,1
+655,Fleming s Conference Hotel Wien,Pune,18.5204,73.8567,Private room,125,60,4,0.06,1307773,1,1
+27799,ARCOTEL Wimberger,Ahmedabad,23.0225,72.5714,Entire home/apt,299,2,21,1.08,5443000,2,0
+19518,Hotel Schild,Pune,18.5204,73.8567,Private room,300,30,0,,76104209,33,1
+29506,Acta CITY47,Delhi,28.7041,77.1025,Private room,200,30,0,,165898555,7,1
+16287,De L Europe Amsterdam,Pune,18.5204,73.8567,Private room,269,30,1,0.13,22541573,87,1
+293,NH Collection Amsterdam Doelen,Pune,18.5204,73.8567,Private room,109,1,104,1.05,323517,2,1
+47890,Hotel Die Port van Cleve,Chennai,13.0827,80.2707,Shared room,285,7,0,,11612418,1,0
+35546,INK Hotel Amsterdam MGallery by Sofitel,Lucknow,26.8467,80.9462,Shared room,89,1,3,1.73,9130040,6,1
+38669,Inntel Hotels Amsterdam Centre,Jaipur,26.9124,75.7873,Private room,100,1,1,0.16,4275601,1,1
+6483,Apex City Of London Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,120,3,133,2.39,13976132,1,0
+1379,Mercure Hotel Amsterdam Centre Canal District,Jaipur,26.9124,75.7873,Entire home/apt,115,3,54,0.65,3024659,1,0
+18620,Onix Liceo,Kolkata,22.5726,88.3639,Entire home/apt,133,30,2,0.15,61391963,91,0
+27735,Abba Sants,Delhi,28.7041,77.1025,Entire home/apt,150,3,2,0.1,21153742,1,1
+32158,NH Sants Barcelona,Bangalore,12.9716,77.5946,Entire home/apt,49,2,25,1.83,19614644,1,0
+39549,COMO Metropolitan London,Ahmedabad,23.0225,72.5714,Entire home/apt,150,2,8,1.27,223258125,1,0
+41190,Aloft London Excel,Delhi,28.7041,77.1025,Entire home/apt,53,1,26,5.03,62589092,1,0
+6746,Ham Yard Hotel,Mumbai,19.076,72.8777,Private room,85,4,2,0.07,1304390,1,1
+43005,DoubleTree by Hilton Amsterdam Centraal Station,Kolkata,22.5726,88.3639,Entire home/apt,300,1,4,1.4,9028198,1,0
+30517,Das Opernring Hotel,Chennai,13.0827,80.2707,Entire home/apt,240,1,22,1.4,175583687,3,0
+24014,Exe Vienna,Pune,18.5204,73.8567,Shared room,60,2,38,1.53,101657794,6,1
+11576,Mercure Hotel Amsterdam West,Mumbai,19.076,72.8777,Shared room,40,30,5,0.11,27974952,7,1
+29516,Luxury Suites Amsterdam,Delhi,28.7041,77.1025,Private room,200,30,0,,165898555,7,1
+25993,Sofitel Legend The Grand Amsterdam,Delhi,28.7041,77.1025,Private room,55,2,10,0.46,148663392,1,0
+37111,Sir Adam Hotel,Pune,18.5204,73.8567,Entire home/apt,140,1,5,0.66,9212560,1,0
+41016,Hotel Grums Barcelona,Chennai,13.0827,80.2707,Shared room,70,1,0,,239035419,1,0
+4488,Hotel Spa Villa Olimpica Suites,Mumbai,19.076,72.8777,Private room,84,30,7,0.12,1475015,52,1
+20281,Sall s Hotel Pere IV,Jaipur,26.9124,75.7873,Entire home/apt,50,1,35,1.14,6134680,1,0
+28420,Hampton by Hilton Amsterdam Centre East,Delhi,28.7041,77.1025,Shared room,150,30,5,0.4,120762452,50,1
+44453,Hotel Beethoven Wien,Ahmedabad,23.0225,72.5714,Private room,75,1,0,,258461766,1,1
+8307,Roomz Vienna,Bangalore,12.9716,77.5946,Private room,120,150,0,,9815198,1,1
+43969,Silken Concordia,Kolkata,22.5726,88.3639,Entire home/apt,120,3,3,1.13,45834595,1,0
+32373,Grosvenor House A JW Marriott Hotel,Delhi,28.7041,77.1025,Entire home/apt,145,2,13,1.02,2053735,1,0
+7923,Hotel Am Parkring,Chennai,13.0827,80.2707,Entire home/apt,198,7,7,0.14,12692690,1,0
+42640,Vienna Marriott Hotel,Hyderabad,17.385,78.4867,Private room,40,5,1,0.36,249146659,1,1
+33068,H10 Port Vell 4 Sup,Jaipur,26.9124,75.7873,Shared room,82,2,33,2.75,54970203,1,0
+38304,Hotel Margot House,Hyderabad,17.385,78.4867,Entire home/apt,110,1,13,1.85,13608859,1,0
+38451,Condes de Barcelona,Mumbai,19.076,72.8777,Private room,315,2,15,2.09,226070943,1,1
+9331,Monument Hotel,Pune,18.5204,73.8567,Entire home/apt,95,4,47,1.01,1574618,1,0
+7200,Occidental Atenea Mar Adults Only,Jaipur,26.9124,75.7873,Entire home/apt,150,5,22,0.41,14684238,1,0
+23026,Hotel Front Maritim,Chennai,13.0827,80.2707,Entire home/apt,75,2,41,1.57,128531725,2,0
+39953,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,Delhi,28.7041,77.1025,Entire home/apt,35,2,11,1.72,230025652,4,0
+40083,Duquesa de Cardona,Ahmedabad,23.0225,72.5714,Entire home/apt,55,2,16,2.57,2557889,1,0
+15697,Hotel The Serras,Hyderabad,17.385,78.4867,Private room,80,2,53,1.37,68909853,1,1
+7592,Eurostars Bcn Design,Chennai,13.0827,80.2707,Private room,225,1,17,0.34,93779,1,1
+19270,Mandarin Oriental Barcelona,Bangalore,12.9716,77.5946,Shared room,2000,30,4,0.12,836168,11,1
+37551,Hotel Casa Fuster G L Monumento,Bangalore,12.9716,77.5946,Shared room,185,1,4,4.0,8344401,1,0
+40878,Sixtytwo Hotel,Chennai,13.0827,80.2707,Entire home/apt,243,30,0,,107434423,232,0
+19577,Majestic Hotel Spa Barcelona GL,Chennai,13.0827,80.2707,Entire home/apt,249,3,55,1.75,68094795,2,0
+34086,Royal Passeig de Gracia,Delhi,28.7041,77.1025,Entire home/apt,71,1,7,0.67,203235966,1,0
+20243,K K Hotel Picasso,Mumbai,19.076,72.8777,Entire home/apt,175,2,44,1.43,47453782,1,0
+21777,AC Hotel Sants a Marriott Lifestyle Hotel,Pune,18.5204,73.8567,Private room,195,30,0,,3191545,23,1
+19160,Hilton Diagonal Mar Barcelona,Chennai,13.0827,80.2707,Private room,748,30,0,,95459395,18,1
+14566,Hotel Palais Strudlhof,Hyderabad,17.385,78.4867,Private room,198,30,0,,2856748,49,1
+19136,Renaissance Barcelona Hotel,Hyderabad,17.385,78.4867,Shared room,499,3,7,0.21,96098402,12,1
+23128,Claris Hotel Spa GL,Bangalore,12.9716,77.5946,Shared room,75,15,5,0.2,108546781,1,0
+40816,H10 Casa Mimosa 4 Sup,Bangalore,12.9716,77.5946,Private room,50,2,15,3.6,153793156,1,0
+27981,Catalonia Ramblas 4 Sup,Jaipur,26.9124,75.7873,Entire home/apt,65,5,42,2.16,22095324,1,0
+35754,Hotel Midmost,Mumbai,19.076,72.8777,Shared room,225,1,1,0.11,125320407,5,1
+2617,Arthotel ANA Westbahn,Hyderabad,17.385,78.4867,Entire home/apt,54,30,5,0.15,7419960,1,0
+45358,The Rookery,Ahmedabad,23.0225,72.5714,Shared room,86,8,0,,83680039,1,0
+44900,Hotel Wandl,Mumbai,19.076,72.8777,Shared room,65,1,8,3.87,53105192,1,0
+43872,Hotel Sacher Wien,Pune,18.5204,73.8567,Shared room,85,1,9,3.25,253906467,9,1
+38537,ME Milan Il Duca,Chennai,13.0827,80.2707,Private room,120,7,0,,224699779,1,1
+18177,Hotel Principe Di Savoia,Hyderabad,17.385,78.4867,Private room,200,30,0,,2856748,49,1
+40550,The Westin Palace,Ahmedabad,23.0225,72.5714,Private room,50,4,3,1.76,1290193,1,1
+47720,Glam Milano,Mumbai,19.076,72.8777,Shared room,275,2,0,,269860794,1,1
+44103,Excelsior Hotel Gallia Luxury Collection Hotel,Delhi,28.7041,77.1025,Private room,95,4,3,1.88,30995747,1,0
+4151,Rosa Grand Milano Starhotels Collezione,Pune,18.5204,73.8567,Private room,45,2,53,0.83,4334757,1,1
+35888,TownHouse 12,Chennai,13.0827,80.2707,Private room,89,1,1,0.59,9130040,6,1
+13827,Hotel Mozart,Ahmedabad,23.0225,72.5714,Private room,70,3,33,0.81,53773419,1,1
+43300,Hotel Dei Cavalieri,Hyderabad,17.385,78.4867,Shared room,51,1,20,6.38,245710234,4,1
+5246,Best Western Plus Hotel Galles,Jaipur,26.9124,75.7873,Entire home/apt,49,2,77,1.53,7508547,1,0
+40876,Starhotels Anderson,Mumbai,19.076,72.8777,Private room,75,30,0,,159811367,10,1
+24777,Hotel Michelangelo,Chennai,13.0827,80.2707,Entire home/apt,120,2,6,0.25,8199671,1,0
+20063,Hotel Mercure Milano Centro,Pune,18.5204,73.8567,Entire home/apt,100,4,8,0.29,31378,3,0
+39173,NYX Milan,Bangalore,12.9716,77.5946,Shared room,48,15,5,0.7,229147376,11,1
+25811,The Yard Milano,Hyderabad,17.385,78.4867,Private room,60,2,1,0.04,8671974,1,1
+34484,Hotel Sunflower,Pune,18.5204,73.8567,Shared room,55,1,37,3.31,63312104,6,1
+10907,Sheraton Grand London Park Lane,Hyderabad,17.385,78.4867,Private room,450,6,15,0.44,19939430,1,1
+43635,M venpick Hotel Amsterdam City Centre,Pune,18.5204,73.8567,Private room,250,30,0,,254607256,2,1
+40781,Silken Ramblas,Bangalore,12.9716,77.5946,Entire home/apt,68,2,0,,310670,13,1
+40323,Duquesa Suites Barcelona,Kolkata,22.5726,88.3639,Entire home/apt,110,1,2,0.6,47023469,3,0
+2479,Hotel SB Diagonal Zero Barcelona 4 Sup,Jaipur,26.9124,75.7873,Entire home/apt,350,14,4,0.06,6866620,1,0
+40660,Hotel DO Pla a Reial G L ,Chennai,13.0827,80.2707,Shared room,130,210,1,0.29,28035940,1,0
+25231,W Barcelona,Jaipur,26.9124,75.7873,Entire home/apt,150,2,6,0.26,5083652,1,0
+31412,H10 Urquinaona Plaza,Lucknow,26.8467,80.9462,Private room,275,30,1,0.07,165898555,7,1
+40513,Hotel du Louvre in the Unbound Collection by Hyatt,Delhi,28.7041,77.1025,Entire home/apt,88,2,18,3.88,23862648,1,0
+45692,W Paris Op ra,Delhi,28.7041,77.1025,Entire home/apt,106,3,7,6.0,26597048,2,0
+34527,Hotel Miramar Barcelona GL,Bangalore,12.9716,77.5946,Private room,495,30,0,,200380610,65,1
+10335,Olivia Plaza Hotel,Bangalore,12.9716,77.5946,Private room,369,30,0,,30283594,121,1
+25713,Catalonia Barcelona Plaza,Bangalore,12.9716,77.5946,Entire home/apt,245,4,8,0.43,5462007,1,0
+35321,Barcel Sants,Jaipur,26.9124,75.7873,Entire home/apt,55,2,11,1.15,111284635,1,0
+16272,London Marriott Maida Vale,Lucknow,26.8467,80.9462,Private room,69,90,0,,23147852,1,1
+33769,The Langham London,Kolkata,22.5726,88.3639,Entire home/apt,90,1,51,4.47,9541963,1,0
+19964,The Ned,Ahmedabad,23.0225,72.5714,Shared room,78,2,7,0.23,519554,5,1
+39251,Sofitel Vienna Stephansdom,Jaipur,26.9124,75.7873,Shared room,55,2,2,0.75,229469300,2,0
+4382,Grand Hotel Amr th Amsterdam,Lucknow,26.8467,80.9462,Entire home/apt,115,7,11,0.3,15102869,1,0
+42396,art otel Amsterdam,Kolkata,22.5726,88.3639,Private room,80,1,0,,184750740,4,1
+36867,NH Collection Amsterdam Barbizon Palace,Kolkata,22.5726,88.3639,Entire home/apt,70,3,21,2.97,1463509,1,0
+18195,Pulitzer Amsterdam,Hyderabad,17.385,78.4867,Private room,165,30,0,,16098958,96,1
+44139,Dikker en Thijs Fenice Hotel,Delhi,28.7041,77.1025,Entire home/apt,135,6,3,2.37,256921050,2,0
+48605,Andaz Amsterdam Prinsengracht A Hyatt Hotel,Jaipur,26.9124,75.7873,Entire home/apt,59,3,0,,222549093,3,0
+42229,Hotel Seven One Seven,Pune,18.5204,73.8567,Entire home/apt,145,3,9,3.55,82940021,1,0
+17989,citizenM Amsterdam,Pune,18.5204,73.8567,Entire home/apt,265,2,19,0.55,25075066,1,0
+18065,InterContinental Amstel Amsterdam,Jaipur,26.9124,75.7873,Private room,67,3,29,0.84,85400172,2,1
+20053,Attica 21 Barcelona Mar,Pune,18.5204,73.8567,Private room,55,2,0,,104568045,1,1
+12592,Hotel America Barcelona,Jaipur,26.9124,75.7873,Shared room,224,3,0,,24199235,1,0
+27942,Golden Tulip Amsterdam Riverside,Jaipur,26.9124,75.7873,Entire home/apt,250,2,5,0.25,9572607,3,0
+39507,Catalonia Park Putxet,Chennai,13.0827,80.2707,Private room,200,1,0,,155261188,1,1
+30701,Hotel Murmuri Barcelona,Chennai,13.0827,80.2707,Private room,159,30,0,,76104209,33,1
+42299,NH Collection Barcelona Gran Hotel Calder n,Chennai,13.0827,80.2707,Entire home/apt,42,3,3,1.3,6447195,2,0
+20143,H10 Metropolitan 4 Sup,Chennai,13.0827,80.2707,Shared room,55,1,1,0.03,104700532,1,0
+14972,HCC Regente,Delhi,28.7041,77.1025,Private room,45,1,17,0.72,63560790,2,1
+694,Barcel Raval,Kolkata,22.5726,88.3639,Entire home/apt,48,90,53,0.57,1123923,2,0
+9345,Le M ridien Barcelona,Kolkata,22.5726,88.3639,Private room,45,30,0,,37360127,1,1
+36600,Ilunion Barcelona,Mumbai,19.076,72.8777,Entire home/apt,80,1,3,0.42,219305025,1,0
+12715,Austria Trend Hotel Rathauspark Wien,Bangalore,12.9716,77.5946,Shared room,75,3,5,0.12,30968452,1,1
+26973,Hotel Landhaus Fuhrgassl Huber,Chennai,13.0827,80.2707,Entire home/apt,170,2,17,0.84,8480056,1,0
+35860,Hotel Parco di Sch nbrunn Vienna,Bangalore,12.9716,77.5946,Private room,100,2,35,4.32,11320557,1,0
+2535,Catalonia Born,Delhi,28.7041,77.1025,Private room,150,1,28,0.51,5435074,1,1
+21226,NH Amsterdam Caransa,Ahmedabad,23.0225,72.5714,Private room,26,30,2,0.09,2092314,7,1
+183,NH Amsterdam Schiller,Mumbai,19.076,72.8777,Entire home/apt,200,4,33,0.58,204724,1,0
+35286,Royal Amsterdam Hotel,Hyderabad,17.385,78.4867,Entire home/apt,35,30,1,0.12,155297713,3,0
+42709,Lindner Hotel Am Belvedere,Ahmedabad,23.0225,72.5714,Shared room,170,2,4,1.22,3401286,1,0
+27445,NH Wien Belvedere,Lucknow,26.8467,80.9462,Entire home/apt,99,2,42,2.56,104401765,1,0
+16681,Austria Trend Hotel Savoyen Vienna,Ahmedabad,23.0225,72.5714,Private room,239,30,1,0.04,30283594,121,1
+4436,Austria Trend Hotel Doppio Wien,Lucknow,26.8467,80.9462,Entire home/apt,150,30,2,0.03,1475015,52,1
+3182,K West Hotel Spa,Hyderabad,17.385,78.4867,Private room,200,2,0,,9520651,1,1
+21979,Appartement Hotel an der Riemergasse,Pune,18.5204,73.8567,Shared room,80,1,161,5.74,117195769,3,1
+30013,Saint SHERMIN bed breakfast champagne,Lucknow,26.8467,80.9462,Entire home/apt,65,4,10,0.6,171660157,1,0
+39814,The Wittmore Adults Only,Lucknow,26.8467,80.9462,Shared room,1075,1,4,0.61,26556695,6,1
+660,Le Meridien Vienna,Mumbai,19.076,72.8777,Private room,125,1,11,0.12,1313306,2,1
+48089,The College Hotel,Jaipur,26.9124,75.7873,Shared room,165,1,1,1.0,271391063,1,0
+16325,Hotel Roemer Amsterdam,Lucknow,26.8467,80.9462,Entire home/apt,40,5,119,3.16,73124477,2,0
+44607,Hotel mbit Barcelona,Bangalore,12.9716,77.5946,Shared room,125,1,1,0.45,114828297,1,0
+12688,Catalonia Eixample 1864,Ahmedabad,23.0225,72.5714,Shared room,250,1,11,0.32,68890,3,1
+9176,Negresco Princess 4 Sup,Hyderabad,17.385,78.4867,Private room,600,7,0,,36579485,3,1
+1028,Petit Palace Barcelona,Bangalore,12.9716,77.5946,Private room,325,30,18,0.21,2108853,1,1
+12966,Roger de Ll ria,Hyderabad,17.385,78.4867,Private room,64,3,36,0.84,20271650,1,0
+32404,Hotel Garbi Millenni,Lucknow,26.8467,80.9462,Private room,60,2,0,,161314694,1,1
+42058,Vincci Gala,Chennai,13.0827,80.2707,Entire home/apt,170,1,4,1.01,10219283,1,0
+43477,Catalonia Square 4 Sup,Jaipur,26.9124,75.7873,Entire home/apt,104,2,7,3.33,4128255,1,0
+2304,H10 Universitat,Delhi,28.7041,77.1025,Entire home/apt,85,3,37,0.58,3211592,1,0
+38998,Bcn Urban Hotels Gran Rosellon,Bangalore,12.9716,77.5946,Private room,699,2,0,,227836627,1,1
+19485,Gallery Hotel,Bangalore,12.9716,77.5946,Entire home/apt,190,5,18,0.57,6521189,1,0
+1945,Hotel Omm,Kolkata,22.5726,88.3639,Private room,100,1,31,0.4,4444170,1,1
+41776,Ayre Hotel Rosell n,Chennai,13.0827,80.2707,Private room,400,1,5,1.23,180008916,2,0
+42632,Evenia Rossello,Jaipur,26.9124,75.7873,Entire home/apt,204,4,3,1.36,28770493,1,0
+27675,Hotel Imlauer Wien,Bangalore,12.9716,77.5946,Private room,70,2,5,1.16,158344372,1,1
+3318,Hotel Nestroy Wien,Bangalore,12.9716,77.5946,Private room,350,5,0,,4139790,1,1
+42041,Hotel Lam e,Kolkata,22.5726,88.3639,Entire home/apt,115,3,1,0.25,776290,1,0
+14177,Crowne Plaza London Docklands,Chennai,13.0827,80.2707,Private room,200,1,3,0.38,25461543,2,1
+37912,K K Palais Hotel,Jaipur,26.9124,75.7873,Entire home/apt,95,1,51,6.95,15238188,1,0
+25439,Radisson Blu Hotel Amsterdam,Pune,18.5204,73.8567,Private room,65,1,1,0.16,140641026,1,1
+24727,Catalonia Rigoletto,Lucknow,26.8467,80.9462,Entire home/apt,325,3,21,0.89,140433041,1,0
+25807,Hotel Neri,Kolkata,22.5726,88.3639,Private room,125,9,0,,147668954,1,1
+7770,Capri by Fraser Barcelona,Pune,18.5204,73.8567,Entire home/apt,110,2,248,4.82,29739883,2,0
+28159,Hotel Espa a Ramblas,Mumbai,19.076,72.8777,Entire home/apt,160,5,5,0.27,50414933,1,0
+37510,Abba Garden,Mumbai,19.076,72.8777,Entire home/apt,149,6,7,0.96,4858280,1,0
+4419,Zenit Barcelona,Jaipur,26.9124,75.7873,Private room,185,2,34,0.56,7629544,1,1
+4940,Hyatt Regency Amsterdam,Hyderabad,17.385,78.4867,Entire home/apt,145,1,358,5.96,17820464,1,0
+794,Austria Trend Hotel Schloss Wilhelminenberg Wien,Ahmedabad,23.0225,72.5714,Entire home/apt,100,19,5,0.06,524730,2,0
+8950,Copthorne Tara Hotel London Kensington,Lucknow,26.8467,80.9462,Entire home/apt,244,2,22,0.45,29480685,1,0
+35348,Courtyard by Marriott Vienna Schoenbrunn,Ahmedabad,23.0225,72.5714,Private room,34,5,2,0.23,8814258,7,1
+22,Arthotel ANA Prime,Chennai,13.0827,80.2707,Shared room,80,1,39,0.37,22486,6,1
+34375,Fletcher Hotel Amsterdam,Pune,18.5204,73.8567,Shared room,86,2,23,2.18,189646908,3,1
+38471,Austria Trend Hotel Park Royal Palace Vienna,Pune,18.5204,73.8567,Private room,65,5,2,0.32,157141199,2,1
+25198,Falkensteiner Hotel Wien Zentrum Schottenfeld,Pune,18.5204,73.8567,Entire home/apt,50,20,3,0.13,22645955,1,0
+20203,Hilton Vienna Plaza,Delhi,28.7041,77.1025,Entire home/apt,25,2,50,1.65,1538057,1,0
+29352,Palais Hansen Kempinski Vienna,Mumbai,19.076,72.8777,Shared room,50,1,13,0.81,7831209,10,1
+11397,Hotel de France Wien,Mumbai,19.076,72.8777,Private room,105,1,54,1.19,10549906,1,1
+20439,Grand Ferdinand Vienna Your Hotel In The City Center,Jaipur,26.9124,75.7873,Private room,36,30,2,0.07,27977412,4,1
+28029,Hotel Am Schubertring,Lucknow,26.8467,80.9462,Entire home/apt,66,2,48,2.6,427019,2,0
+29604,The Ritz Carlton Vienna,Chennai,13.0827,80.2707,Entire home/apt,75,1,20,1.55,167595532,1,0
+36050,Hotel K nig von Ungarn,Pune,18.5204,73.8567,Private room,70,2,14,1.52,17486626,2,0
+19454,Hotel Domizil,Kolkata,22.5726,88.3639,Entire home/apt,200,3,41,1.24,1098809,1,0
+19542,Hotel Capricorno,Lucknow,26.8467,80.9462,Private room,163,30,0,,76104209,33,1
+35730,Hotel Advance,Kolkata,22.5726,88.3639,Entire home/apt,65,2,64,6.34,214095681,2,0
+18366,Derag Livinghotel Kaiser Franz Joseph Vienna,Ahmedabad,23.0225,72.5714,Shared room,200,90,4,0.4,23266322,1,1
+45691,Room Mate Giulia,Hyderabad,17.385,78.4867,Private room,75,1,0,,263090455,1,1
+38971,Simm s Hotel,Chennai,13.0827,80.2707,Private room,34,1,17,2.33,6407054,3,0
+10953,Hotel Esther a,Kolkata,22.5726,88.3639,Private room,160,2,2,0.04,16954469,1,1
+36412,Hotel Royal,Chennai,13.0827,80.2707,Shared room,119,1,2,0.26,213781715,33,1
+23827,Sloane Square Hotel,Kolkata,22.5726,88.3639,Private room,200,3,0,,134672751,1,1
+46621,Best Western Plus Hotel Blue Square,Delhi,28.7041,77.1025,Private room,450,1,0,,62664257,1,1
+32544,Austria Trend Hotel Ananas Wien,Mumbai,19.076,72.8777,Private room,1333,50,0,,75110137,1,1
+24586,Hotel Zeitgeist Vienna Hauptbahnhof,Bangalore,12.9716,77.5946,Entire home/apt,170,2,12,0.53,28307663,1,0
+1383,AZIMUT Hotel Vienna,Kolkata,22.5726,88.3639,Private room,45,3,0,,2979607,2,1
+39685,Hilton London Canary Wharf,Chennai,13.0827,80.2707,Private room,180,4,2,0.56,11510329,1,0
+12905,Grange Holborn Hotel,Jaipur,26.9124,75.7873,Entire home/apt,65,5,10,0.49,46256682,1,0
+26512,WestCord Art Hotel Amsterdam 4 stars,Delhi,28.7041,77.1025,Entire home/apt,150,4,1,0.05,28066471,1,0
+15591,W Amsterdam,Jaipur,26.9124,75.7873,Private room,500,1,0,,51093380,1,1
+33310,NH City Centre Amsterdam,Bangalore,12.9716,77.5946,Entire home/apt,265,2,5,0.49,3274004,1,0
+12418,The Stafford London,Ahmedabad,23.0225,72.5714,Private room,100,2,18,0.41,49566321,1,1
+31566,The Tower A Guoman Hotel,Hyderabad,17.385,78.4867,Shared room,199,3,10,0.7,75302217,2,1
+2208,Ramada Apollo Amsterdam Centre,Kolkata,22.5726,88.3639,Private room,125,2,38,0.61,5682003,1,0
+25521,Amsterdam Marriott Hotel,Ahmedabad,23.0225,72.5714,Entire home/apt,50,5,22,1.0,71850281,1,0
+35564,Park Hotel,Chennai,13.0827,80.2707,Entire home/apt,99,2,3,0.32,75937385,1,0
+23208,NH Amsterdam Centre,Kolkata,22.5726,88.3639,Private room,195,30,1,0.05,120762452,50,1
+40826,DO CO Hotel Vienna,Pune,18.5204,73.8567,Entire home/apt,215,2,2,1.03,223075114,1,0
+8929,Hotel Am Stephansplatz,Mumbai,19.076,72.8777,Shared room,145,3,1,0.02,33605216,1,0
+47941,The Savoy,Chennai,13.0827,80.2707,Entire home/apt,54,1,0,,269078124,3,0
+39340,The May Fair Hotel,Mumbai,19.076,72.8777,Shared room,160,1,9,1.39,541486,2,0
+22650,Best Western Hotel Pension Arenberg Wien Zentrum,Pune,18.5204,73.8567,Entire home/apt,79,9,11,0.48,27670418,1,0
+47494,Hotel Stefanie,Ahmedabad,23.0225,72.5714,Shared room,55,2,0,,238908845,1,0
+7753,Hotel City Central,Hyderabad,17.385,78.4867,Shared room,89,1,68,1.31,28722667,3,1
+44209,Amba Hotel Charing Cross,Mumbai,19.076,72.8777,Entire home/apt,59,3,4,2.61,90332306,1,0
+29648,Hotel Das Tigra,Lucknow,26.8467,80.9462,Private room,130,1,4,0.27,167995009,1,1
+38557,Holiday Inn London Brent Cross,Lucknow,26.8467,80.9462,Private room,200,31,0,,226406882,3,1
+48739,Bermondsey Square Hotel A Bespoke Hotel,Hyderabad,17.385,78.4867,Shared room,100,1,0,,48685332,1,0
+33661,Courtyard by Marriott Vienna Prater Messe,Kolkata,22.5726,88.3639,Entire home/apt,90,3,7,0.64,17926275,1,0
+1229,NH Barcelona Stadium,Jaipur,26.9124,75.7873,Private room,200,7,20,0.24,787204,1,1
+2444,Imperial Riding School Renaissance Vienna Hotel,Kolkata,22.5726,88.3639,Private room,135,1,17,0.25,5962196,1,1
+26747,Aparthotel Adagio Vienna City,Pune,18.5204,73.8567,Shared room,125,5,48,2.3,11005274,1,0
+39860,Mercure Barcelona Condor,Chennai,13.0827,80.2707,Private room,32,30,0,,10994664,8,1
+24852,H10 Cubik 4 Sup,Hyderabad,17.385,78.4867,Private room,350,1,1,0.05,4335080,2,1
+47734,Sunotel Club Central,Chennai,13.0827,80.2707,Entire home/apt,79,4,0,,45232769,3,0
+31073,Conservatorium Hotel,Mumbai,19.076,72.8777,Entire home/apt,148,2,3,0.21,162290659,1,0
+5333,NH Amsterdam Zuid,Lucknow,26.8467,80.9462,Private room,130,30,2,0.04,1475015,52,1
+42891,Hotel Tocq,Pune,18.5204,73.8567,Shared room,95,3,1,1.0,747681,1,0
+46633,The Square Milano Duomo,Kolkata,22.5726,88.3639,Private room,75,1,0,,69700229,3,1
+4387,Mandarin Oriental Milan,Lucknow,26.8467,80.9462,Shared room,179,1,8,0.13,1177497,11,1
+29494,Art Hotel Navigli,Hyderabad,17.385,78.4867,Private room,225,4,9,0.65,158563237,1,1
+34053,Hotel Balmoral,Lucknow,26.8467,80.9462,Private room,95,2,41,3.5,121771546,2,1
+41947,Brunelleschi Hotel,Pune,18.5204,73.8567,Entire home/apt,89,2,3,0.9,244804004,2,0
+27822,Camperio House Suites Apartments,Delhi,28.7041,77.1025,Private room,80,3,2,0.11,157558461,3,0
+37737,TownHouse 33,Chennai,13.0827,80.2707,Entire home/apt,84,6,3,0.37,96647029,1,0
+27079,Hotel Capitol Milano,Delhi,28.7041,77.1025,Entire home/apt,175,2,16,0.77,6388732,1,0
+2182,Hotel Clerici,Kolkata,22.5726,88.3639,Entire home/apt,235,6,5,0.07,5596242,1,0
+39749,UNA Hotel Cusani,Kolkata,22.5726,88.3639,Shared room,45,3,2,0.38,145662625,1,0
+39900,Hotel Pierre Milano,Hyderabad,17.385,78.4867,Private room,45,1,6,0.97,53243644,2,0
+40628,MiHotel,Delhi,28.7041,77.1025,Shared room,149,7,0,,15185649,2,0
+23772,Hotel Milano Scala,Delhi,28.7041,77.1025,Entire home/apt,27,30,4,0.18,134293540,4,0
+2435,IH Hotels Milano Gioia,Chennai,13.0827,80.2707,Private room,95,7,2,0.03,6632440,2,1
+44699,Style Hotel,Delhi,28.7041,77.1025,Entire home/apt,180,10,3,2.09,68869481,1,0
+10531,Andreola Central Hotel,Hyderabad,17.385,78.4867,Shared room,189,30,4,0.11,30283594,121,1
+40833,Hotel Bristol,Mumbai,19.076,72.8777,Entire home/apt,70,2,11,2.29,47114213,1,0
+36326,Admiral Hotel,Pune,18.5204,73.8567,Shared room,55,1,9,0.95,205131610,3,1
+28372,UNA Hotel Century,Chennai,13.0827,80.2707,Private room,110,2,33,1.74,46972551,1,0
+31085,Hotel Marconi,Chennai,13.0827,80.2707,Private room,35,2,24,1.56,181711840,2,1
+10819,Hotel Cavour,Lucknow,26.8467,80.9462,Shared room,50,1,5,0.11,12720552,5,1
+33247,Best Western Plus Hotel Felice Casati,Pune,18.5204,73.8567,Shared room,110,2,2,0.16,7132948,1,0
+38850,Nu Hotel,Delhi,28.7041,77.1025,Private room,55,1,10,1.36,40305031,2,1
+35364,Hotel Magna Pars Small Luxury Hotels of the World,Chennai,13.0827,80.2707,Entire home/apt,110,2,45,5.27,211893857,1,0
+46409,Mercure Milano Regency,Mumbai,19.076,72.8777,Private room,70,1,0,,138782186,2,1
+19430,Hotel Auriga,Lucknow,26.8467,80.9462,Private room,748,30,1,0.08,95459395,18,1
+35576,Hotel Portello Gruppo Minihotel,Jaipur,26.9124,75.7873,Entire home/apt,145,2,5,0.57,17893196,1,0
+39415,Idea Hotel Milano San Siro,Mumbai,19.076,72.8777,Private room,62,1,2,0.32,30377766,2,1
+33807,Windsor Hotel Milano,Kolkata,22.5726,88.3639,Entire home/apt,100,3,17,1.42,135739716,1,0
+11045,Four Points Sheraton Milan Center,Ahmedabad,23.0225,72.5714,Entire home/apt,72,1,201,4.45,44924546,4,0
+37995,Four Seasons Hotel Milano,Jaipur,26.9124,75.7873,Private room,79,30,0,,225618164,3,1
+40951,IH Hotels Milano Watt 13,Mumbai,19.076,72.8777,Shared room,89,7,0,,7700456,1,0
+15199,LaGare Hotel Milano Centrale MGallery by Sofitel,Jaipur,26.9124,75.7873,Entire home/apt,40,1,48,1.24,22117154,1,0
+34902,Barcel Milan,Jaipur,26.9124,75.7873,Entire home/apt,330,2,8,0.74,18763685,1,0
+42265,UNA Hotel Scandinavia,Jaipur,26.9124,75.7873,Entire home/apt,140,2,3,0.97,246806787,1,1
+5261,Acca Palace,Kolkata,22.5726,88.3639,Entire home/apt,99,1,147,2.84,16677444,1,0
+42800,Sina De La Ville,Lucknow,26.8467,80.9462,Entire home/apt,70,2,5,1.63,45470760,1,0
+30897,UNA Hotel Mediterraneo,Hyderabad,17.385,78.4867,Private room,50,3,5,0.32,1903663,2,1
+26557,Hotel La Spezia Gruppo MiniHotel,Hyderabad,17.385,78.4867,Private room,150,2,18,0.86,5760970,2,1
+10400,Exe Laietana Palace,Mumbai,19.076,72.8777,Entire home/apt,400,1,15,0.34,4352069,2,0
+4226,Grand Hotel Central,Bangalore,12.9716,77.5946,Private room,55,7,10,0.16,14176488,1,1
+280,Ilunion Almirante,Bangalore,12.9716,77.5946,Private room,75,3,20,0.26,321756,1,1
+42128,Ohla Barcelona,Delhi,28.7041,77.1025,Private room,302,30,0,,30283594,121,1
+3063,Barcelona Hotel Colonial,Pune,18.5204,73.8567,Entire home/apt,199,10,4,0.06,9473928,1,0
+35839,NH Milano Machiavelli,Pune,18.5204,73.8567,Shared room,230,2,6,0.64,2757243,1,0
+11404,Hotel Sanpi Milano,Bangalore,12.9716,77.5946,Private room,170,4,28,0.82,9933134,1,1
+15345,Best Western Hotel Ascot,Bangalore,12.9716,77.5946,Private room,150,3,11,0.28,30826804,1,1
+36651,Ca Bianca Hotel Corte Del Naviglio,Ahmedabad,23.0225,72.5714,Private room,155,1,1,0.11,219548549,2,1
+36377,IH Hotels Milano Lorenteggio,Jaipur,26.9124,75.7873,Shared room,285,1,1,0.16,6531164,1,0
+36624,Hilton Garden Inn Milan North,Chennai,13.0827,80.2707,Shared room,49,2,10,1.15,219465297,1,0
+48130,DoubleTree By Hilton Milan,Lucknow,26.8467,80.9462,Entire home/apt,42,1,0,,255641440,7,0
+10686,Hilton Milan,Kolkata,22.5726,88.3639,Shared room,199,1,20,0.45,1177497,11,1
+40923,Hotel Wagner,Hyderabad,17.385,78.4867,Shared room,110,30,1,0.59,8849869,1,0
+2622,Hotel Boutique Duomo,Ahmedabad,23.0225,72.5714,Private room,55,28,0,,5386695,1,1
+18496,Hotel Manin,Hyderabad,17.385,78.4867,Private room,200,5,21,0.6,39143718,2,1
+34948,Grand Hotel et de Milan,Delhi,28.7041,77.1025,Shared room,120,2,5,0.52,209147067,1,0
+38486,Armani Hotel Milano,Delhi,28.7041,77.1025,Shared room,70,1,1,1.0,1705112,1,0
+42587,Meli Milano,Lucknow,26.8467,80.9462,Entire home/apt,160,3,8,2.58,248788151,1,0
+29532,Hotel Mediolanum,Ahmedabad,23.0225,72.5714,Entire home/apt,70,2,11,0.67,22130449,1,0
+28107,UNA Maison Milano,Kolkata,22.5726,88.3639,Private room,150,30,2,0.3,120762452,50,1
+11193,Novotel Milano Linate Aeroporto,Mumbai,19.076,72.8777,Private room,50,500,10,0.22,8996336,1,1
+22011,Hotel Carrobbio,Pune,18.5204,73.8567,Private room,50,1,173,6.15,119592255,2,1
+47534,NH Milano Grand Hotel Verdi,Chennai,13.0827,80.2707,Private room,160,1,1,1.0,33213436,8,1
+29877,Crowne Plaza Milan City,Jaipur,26.9124,75.7873,Entire home/apt,200,3,19,1.1,170574337,1,0
+26185,Leonardo Hotel Milan City Center,Bangalore,12.9716,77.5946,Private room,120,1,47,2.2,34506361,2,1
+36581,Petit Palais Hotel De Charme,Pune,18.5204,73.8567,Private room,90,7,1,0.79,94214493,9,1
+27702,Mokinba Hotels Montebianco,Mumbai,19.076,72.8777,Private room,187,2,7,0.64,6792247,1,0
+30712,Hotel Mentana,Pune,18.5204,73.8567,Private room,210,29,0,,12243051,96,1
+4944,Atahotel Contessa Jolanda,Lucknow,26.8467,80.9462,Private room,150,1,0,,17845064,1,1
+48747,Hotel Berna,Ahmedabad,23.0225,72.5714,Private room,375,2,0,,53602261,1,1
+46423,Best Western Atlantic Hotel,Delhi,28.7041,77.1025,Private room,100,1,1,0.81,59268420,1,1
+7797,LHP Hotel Napoleon,Delhi,28.7041,77.1025,Shared room,259,1,94,1.85,1177497,11,1
+19336,Ibis Styles Milano Palmanova,Chennai,13.0827,80.2707,Entire home/apt,39,3,18,0.54,98726662,3,0
+1541,Mokinba Hotels Baviera,Kolkata,22.5726,88.3639,Entire home/apt,55,2,79,0.96,3577848,1,0
+24843,Hotel Vittoria,Lucknow,26.8467,80.9462,Private room,246,1,10,0.42,24041479,1,1
+15206,Starhotels Business Palace,Kolkata,22.5726,88.3639,Private room,250,1,0,,167796,1,1
+9740,Hotel Mercure Milano Solari,Lucknow,26.8467,80.9462,Shared room,169,30,3,0.09,30283594,121,1
+28258,ADI Hotel Poliziano Fiera,Delhi,28.7041,77.1025,Private room,196,5,4,0.22,33978706,1,0
+22515,Bulgari Hotel Milano,Ahmedabad,23.0225,72.5714,Entire home/apt,85,3,8,0.3,2208374,2,0
+31205,Best Western Madison Hotel,Bangalore,12.9716,77.5946,Private room,60,7,1,0.07,139946116,1,1
+42961,The Hub Hotel,Mumbai,19.076,72.8777,Private room,47,30,0,,244171850,10,1
+42906,Hotel Silver,Chennai,13.0827,80.2707,Shared room,175,2,1,0.68,217803139,1,0
+19393,Colombia,Bangalore,12.9716,77.5946,Private room,125,30,0,,99346083,1,1
+8048,Antares Hotel Rubens,Ahmedabad,23.0225,72.5714,Entire home/apt,75,2,129,3.01,9671470,2,0
+11148,STRAF a Member of Design Hotels ,Lucknow,26.8467,80.9462,Entire home/apt,220,3,7,0.16,33200173,2,0
+7123,Sina The Gray,Pune,18.5204,73.8567,Private room,100,2,0,,18388649,1,1
+43356,Antica Locanda Dei Mercanti,Bangalore,12.9716,77.5946,Entire home/apt,100,3,3,1.23,84732743,1,0
+37429,Palazzo Segreti,Ahmedabad,23.0225,72.5714,Entire home/apt,150,4,3,0.44,5224789,1,0
+46217,Hotel Santa Marta Suites,Kolkata,22.5726,88.3639,Shared room,109,4,0,,225608965,1,0
+5147,TH Street Duomo,Jaipur,26.9124,75.7873,Private room,99,5,27,0.7,6932160,1,1
+25609,Uptown Palace,Delhi,28.7041,77.1025,Private room,400,1,0,,100835599,2,1
+45420,Hotel Manzoni,Bangalore,12.9716,77.5946,Entire home/apt,172,2,5,3.19,3236741,1,0
+24220,Senato Hotel Milano,Delhi,28.7041,77.1025,Private room,275,2,15,0.65,47988208,1,0
+46631,Baglioni Hotel Carlton The Leading Hotels of the World,Lucknow,26.8467,80.9462,Private room,450,2,0,,206451695,3,1
+42253,Hotel Da Vinci,Hyderabad,17.385,78.4867,Entire home/apt,130,2,6,1.82,29602688,1,0
+6333,TownHouse Duomo,Kolkata,22.5726,88.3639,Private room,1000,1,0,,22506665,1,1
+152,TownHouse Galleria,Ahmedabad,23.0225,72.5714,Entire home/apt,125,3,155,1.61,142684,1,0
+36323,Hotel Spadari Al Duomo,Delhi,28.7041,77.1025,Entire home/apt,29,29,1,1.0,204704622,7,0
+8457,Starhotels Ritz,Hyderabad,17.385,78.4867,Private room,85,2,188,3.75,33527075,2,0
+33297,Ramada Plaza Milano,Bangalore,12.9716,77.5946,Private room,67,1,10,0.83,158338077,2,1
+36588,NH Milano Touring,Delhi,28.7041,77.1025,Entire home/apt,138,3,24,2.69,21339635,1,0
+36333,AC Hotel Milano a Marriott Lifestyle Hotel,Lucknow,26.8467,80.9462,Entire home/apt,299,2,1,0.58,191085997,3,0
+44032,Hotel Tiziano Park Vita Parcour Gruppo MiniHotels,Kolkata,22.5726,88.3639,Entire home/apt,100,2,3,3.0,256710914,1,0
+46085,Park Hyatt Milano,Bangalore,12.9716,77.5946,Shared room,75,1,5,4.05,214738765,3,1
+21570,Nhow Milan,Kolkata,22.5726,88.3639,Entire home/apt,100,4,3,0.2,5130754,1,0
+43061,Holiday Inn Milan Garibaldi Station,Kolkata,22.5726,88.3639,Entire home/apt,295,2,9,2.9,194856554,1,0
+29765,Milan Suite Hotel,Bangalore,12.9716,77.5946,Shared room,73,31,4,0.31,126407919,1,0
+42275,Klima Hotel Milano Fiere,Mumbai,19.076,72.8777,Private room,450,4,0,,246851284,1,1
+7644,Radisson Blu Hotel Milan,Pune,18.5204,73.8567,Private room,350,1,4,0.08,1632428,2,1
+26589,Milan Marriott Hotel,Hyderabad,17.385,78.4867,Private room,319,1,52,2.48,1177497,11,1
+15941,ADI Doria Grand Hotel,Delhi,28.7041,77.1025,Shared room,280,30,3,0.1,22541573,87,1
+1997,Starhotels Echo,Delhi,28.7041,77.1025,Entire home/apt,60,1,109,1.52,3549531,1,0
+34066,Bianca Maria Palace Hotel,Lucknow,26.8467,80.9462,Shared room,225,4,1,0.16,56740664,1,0
+46658,Hotel D Este,Lucknow,26.8467,80.9462,Shared room,299,3,0,,96019,1,0
+45849,Hotel Liberty,Hyderabad,17.385,78.4867,Shared room,108,2,2,2.0,254119216,1,0
+48271,Best Western Hotel Mirage,Pune,18.5204,73.8567,Shared room,125,2,0,,219573002,1,0
+3786,Hotel Raffaello,Hyderabad,17.385,78.4867,Private room,350,1,7,0.14,11630571,1,1
+40973,Antares Hotel Accademia,Bangalore,12.9716,77.5946,Private room,60,30,0,,238321374,32,1
+20506,Starhotels Tourist,Mumbai,19.076,72.8777,Entire home/apt,220,6,7,0.23,106899231,2,0
+9150,Grand Visconti Palace,Bangalore,12.9716,77.5946,Entire home/apt,95,4,5,0.1,6968630,1,0
+3109,Best Western Hotel Major,Hyderabad,17.385,78.4867,Private room,89,90,47,0.73,9637768,1,1
+47021,Hotel Lombardia,Ahmedabad,23.0225,72.5714,Shared room,89,2,1,1.0,11397354,1,0
+39242,NH Milano Palazzo Moscova,Jaipur,26.9124,75.7873,Shared room,135,2,2,1.67,24594462,2,0
+13253,Best Western Antares Hotel Concorde,Jaipur,26.9124,75.7873,Private room,500,7,0,,2974643,1,1
+2124,Atahotel Linea Uno,Pune,18.5204,73.8567,Entire home/apt,91,5,395,5.16,2267153,2,0
+864,Best Western Hotel Astoria,Mumbai,19.076,72.8777,Private room,99,3,14,0.22,1586945,1,1
+1305,Sheraton Diana Majestic,Ahmedabad,23.0225,72.5714,Private room,115,370,6,0.09,2798644,1,1
+38727,Hotel degli Arcimboldi,Ahmedabad,23.0225,72.5714,Entire home/apt,280,30,0,,107434423,232,0
+30409,Novotel Milano Nord Ca Granda,Ahmedabad,23.0225,72.5714,Entire home/apt,50,1,25,1.56,174511839,1,0
+47203,Best Western Hotel St George,Hyderabad,17.385,78.4867,Private room,90,2,1,1.0,266792224,1,1
+4376,NH Carlton Amsterdam,Mumbai,19.076,72.8777,Shared room,4500,1,5,0.09,1177497,11,1
+40191,Albus Hotel Amsterdam City Centre,Delhi,28.7041,77.1025,Private room,65,2,1,0.16,129124146,3,1
+25989,Hotel Vilamar ,Bangalore,12.9716,77.5946,Private room,175,30,0,,76104209,33,1
+28003,Vilana Hotel,Mumbai,19.076,72.8777,Entire home/apt,170,3,26,1.4,10979123,1,0
+41762,Acevi Villarroel,Kolkata,22.5726,88.3639,Shared room,29,30,0,,19303369,37,0
+19979,Hotel Arkadenhof,Hyderabad,17.385,78.4867,Private room,99,1,8,0.26,15679125,1,1
+34075,Hotel Vondel Amsterdam,Mumbai,19.076,72.8777,Private room,60,1,0,,167459000,1,0
+27660,Hotel Pension Baron am Schottentor,Bangalore,12.9716,77.5946,Entire home/apt,110,12,2,0.17,35387196,4,0
+19653,Hotel Atlanta,Ahmedabad,23.0225,72.5714,Shared room,369,3,8,0.25,96098402,12,1
+17141,Park Inn by Radisson Uno City Vienna,Bangalore,12.9716,77.5946,Shared room,300,2,15,0.41,1651250,2,0
+27877,NH Danube City,Mumbai,19.076,72.8777,Entire home/apt,95,3,8,0.67,41813694,1,0
+28852,Strandhotel Alte Donau,Jaipur,26.9124,75.7873,Entire home/apt,115,2,14,1.21,108774275,1,0
+26753,ARCOTEL Kaiserwasser Superior,Ahmedabad,23.0225,72.5714,Private room,135,1,2,0.09,134184451,18,1
+5385,Mercure Hotel Raphael Wien,Delhi,28.7041,77.1025,Private room,139,365,13,0.23,20133610,1,1
+34862,Arthotel ANA Boutique Six,Hyderabad,17.385,78.4867,Entire home/apt,175,4,6,0.58,13462855,2,0
+47971,Austria Trend Hotel Anatol Wien,Chennai,13.0827,80.2707,Shared room,49,5,0,,1639684,1,0
+23022,Hotel Kaiserin Elisabeth,Chennai,13.0827,80.2707,Entire home/apt,123,3,32,1.22,33786241,1,0
+31366,Boutique Hotel Notting Hill,Bangalore,12.9716,77.5946,Entire home/apt,100,2,3,0.2,8409547,1,0
+26151,Crowne Plaza London Ealing,Chennai,13.0827,80.2707,Private room,175,30,1,0.09,120762452,50,1
+13658,Good Hotel London,Bangalore,12.9716,77.5946,Shared room,230,180,0,,4227531,1,1
+25604,Park Plaza Westminster Bridge London,Bangalore,12.9716,77.5946,Private room,34,30,2,0.11,146345538,5,1
+35843,Hotel du Vin Cannizaro House Wimbledon,Pune,18.5204,73.8567,Entire home/apt,145,4,5,0.53,29452152,1,0
+11309,Amsterdam Canal Residence,Mumbai,19.076,72.8777,Shared room,250,1,50,1.46,40611169,5,1
+38223,Thistle Trafalgar Square The Royal Trafalgar,Pune,18.5204,73.8567,Private room,3000,1,1,0.15,101080203,1,1
+44355,Corinthia Hotel London,Jaipur,26.9124,75.7873,Shared room,85,4,3,2.2,95381568,1,0
+12886,The Student Hotel Amsterdam City,Lucknow,26.8467,80.9462,Entire home/apt,125,6,5,0.16,24554945,1,0
+46071,Hotel Prinz Eugen,Pune,18.5204,73.8567,Shared room,88,10,0,,945144,1,0
+5232,Hotel Erzherzog Rainer,Chennai,13.0827,80.2707,Private room,170,1,20,0.4,5003239,1,1
+11239,Das Triest Hotel,Jaipur,26.9124,75.7873,Private room,1000,2,0,,9739435,1,1
+5066,Suite Hotel 900 m zur Oper,Delhi,28.7041,77.1025,Shared room,159,30,3,0.08,7503643,52,1
+235,Hotel Amadeus,Ahmedabad,23.0225,72.5714,Private room,125,28,183,1.83,292204,2,1
+8646,The Berkeley,Hyderabad,17.385,78.4867,Entire home/apt,140,3,64,1.29,3579116,2,0
+17102,Holiday Inn London Kensington,Delhi,28.7041,77.1025,Private room,200,30,0,,22541573,87,1
+19668,Atlantis Hotel Vienna,Chennai,13.0827,80.2707,Private room,80,2,77,2.37,87370616,2,1
